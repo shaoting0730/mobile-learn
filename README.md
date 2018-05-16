@@ -14,7 +14,7 @@
    [ swiftUI控件学习 ]( https://github.com/pheromone/swift_study )    <br/>
    [ swift制作的音视频demo,已适配swift3+ ]( https://github.com/pheromone/swift-video-audio )    <br/>
    [ 第一次学习游戏开发 采用swift3.0 ]( https://github.com/pheromone/Flappy-Bird )    <br/>
-   [ 之前项目的相机模块,保留一下 ]( https://github.com/pheromone/swift_custom_camera )    <br/
+   [ 之前项目的相机模块,保留一下 ]( https://github.com/pheromone/swift_custom_camera )    <br/>
    [ swift简单处理调用高清大图导致内存暴涨的情况 ]( https://github.com/pheromone/swift-imagePicker-memory )    <br/>
    [ swift3.0-自定义键盘  ]( https://github.com/pheromone/swift3.0-emojiKeyboard )    <br/>
 
