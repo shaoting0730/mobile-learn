@@ -7,6 +7,8 @@
    [ redux和react-navigation的结合使用 ]( https://github.com/pheromone/RN_nav )    <br/> 
    [ React-Native 新推出的列表组件FlatList SectionList 学习 ]( https://github.com/pheromone/RN-FlatList-SectionList )    <br/> 
    [ react-native-videoDemo 网络音乐播放器 ]( https://github.com/pheromone/react-native-videoDemo )    <br/> 
+   [ react-native-router-flux初步认识 ]( https://github.com/pheromone/react-native-router-flux-demo )    <br/> 
+
 # 微信小程序
    [ 第一次尝试微信小程序 ]( https://github.com/pheromone/FirstWeChatSmall )    <br/>
 # iOS
