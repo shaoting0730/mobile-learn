@@ -46,4 +46,4 @@
 
    
 # Android
-## 学习中
+   [ java入门视频] ( http://www.maiziedu.com/course/android/ )    <br/>
