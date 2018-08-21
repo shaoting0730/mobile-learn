@@ -13,6 +13,7 @@
    [ 关于iOS和React Native的交互 ]( https://github.com/pheromone/IOS-native-and-React-native-interaction )    <br/>
    [ 关于Android和React Native的简单交互 ]( https://github.com/pheromone/androidrn )    <br/> 
    [ react-navigation的介绍 ]( https://github.com/pheromone/navigationDemo )    <br/> 
+   [ react-navigation先登录再Tab ]( https://github.com/pheromone/loginRN/tree/master )    <br/> 
    [ react-navigation的基本使用 ]( https://github.com/pheromone/react-navigation-use )    <br/>
    [ redux和react-navigation的结合使用 ]( https://github.com/pheromone/RN_nav )    <br/> 
    [ React-Native 新推出的列表组件FlatList SectionList 学习 ]( https://github.com/pheromone/RN-FlatList-SectionList )    <br/> 
