@@ -28,7 +28,9 @@
  [ React Native 推送通知至RN且显示推送内容](https://pheromone.github.io/2018/09/08/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%AD%A6%E4%B9%A0/React%20Native%20%E6%8E%A8%E9%80%81%E9%80%9A%E7%9F%A5%E8%87%B3RN%E4%B8%94%E6%98%BE%E7%A4%BA%E6%8E%A8%E9%80%81%E5%86%85%E5%AE%B9/)    <br/>
    
  
- 
+# Flutter
+   [ Flutter 学习视频:技术胖 ]( http://jspang.com/post/flutter4.html )    <br/>
+
 
 
 # 微信小程序
