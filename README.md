@@ -18,6 +18,7 @@
    [ redux和react-navigation的结合使用 ]( https://github.com/pheromone/RN_nav )    <br/> 
    [ React-Native 新推出的列表组件FlatList SectionList 学习 ]( https://github.com/pheromone/RN-FlatList-SectionList )    <br/> 
    [ react-native-videoDemo 网络音乐播放器 ]( https://github.com/pheromone/react-native-videoDemo )    <br/> 
+   [ react-native-videoDemo 网络音乐播放器 ]( https://github.com/pheromone/react_native_weibo )    <br/> 
    [ Mobx与react-navigation的结合使用 ]( https://github.com/pheromone/mobx_reactNavigation_demo )    <br/> 
    [ dva与react-navigation的结合使用 ]( https://github.com/pheromone/rn_dva )    <br/> 
    [ 二维码扫描(react-native-camera) ]( https://github.com/pheromone/scanDemo )    <br/>
@@ -30,6 +31,7 @@
  
 # Flutter
    [ Flutter 学习视频:技术胖 ]( http://jspang.com/post/flutter4.html )    <br/>
+   demo施工中
 
 
 
