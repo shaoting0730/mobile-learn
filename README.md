@@ -20,6 +20,7 @@
    [ react-native-videoDemo 网络音乐播放器 ]( https://github.com/pheromone/react-native-videoDemo )    <br/> 
    [ react-native 微博demo ]( https://github.com/pheromone/react_native_weibo )    <br/> 
    [ Mobx与react-navigation的结合使用 ]( https://github.com/pheromone/mobx_reactNavigation_demo )    <br/> 
+   [ redux与react-navigation的结合使用 ]( https://github.com/pheromone/RN_nav )    <br/> 
    [ dva与react-navigation的结合使用 ]( https://github.com/pheromone/rn_dva )    <br/> 
    [ 二维码扫描(react-native-camera) ]( https://github.com/pheromone/scanDemo )    <br/>
    [ 前置登录 ]( https://pheromone.github.io/2018/06/16/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%AD%A6%E4%B9%A0/react-navigation%E5%89%8D%E7%BD%AE%E7%99%BB%E5%BD%95/)    <br/> 
