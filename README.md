@@ -31,7 +31,8 @@
  
 # Flutter
    [ Flutter 学习视频:技术胖 ]( http://jspang.com/post/flutter4.html )    <br/>
-   demo施工中
+   [ Flutter 学习demo ]( https://github.com/pheromone/Flutter_learn_demo )    <br/>
+ 
 
 
 
