@@ -15,7 +15,6 @@
    [ react-navigation的介绍 ]( https://github.com/pheromone/navigationDemo )    <br/> 
    [ react-navigation先登录再Tab ]( https://github.com/pheromone/loginRN/tree/master )    <br/> 
    [ react-navigation的基本使用 ]( https://github.com/pheromone/react-navigation-use )    <br/>
-   [ redux和react-navigation的结合使用 ]( https://github.com/pheromone/RN_nav )    <br/> 
    [ React-Native 新推出的列表组件FlatList SectionList 学习 ]( https://github.com/pheromone/RN-FlatList-SectionList )    <br/> 
    [ react-native-videoDemo 网络音乐播放器 ]( https://github.com/pheromone/react-native-videoDemo )    <br/> 
    [ react-native 微博demo ]( https://github.com/pheromone/react_native_weibo )    <br/> 
