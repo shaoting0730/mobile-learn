@@ -30,9 +30,11 @@
    
  
 # Flutter
+   [ Dark2 中文文档 ]( https://www.kancloud.cn/marswill/dark2_document )    <br/>
+   [ Flutter中文书 ]( https://book.flutterchina.club/ )    <br/>
    [ Flutter 学习视频:技术胖 ]( http://jspang.com/post/flutter4.html )    <br/>
    [ Flutter 学习demo ]( https://github.com/pheromone/Flutter_learn_demo )    <br/>
- 
+
 
 
 
