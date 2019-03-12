@@ -33,7 +33,7 @@
    [ Flutter中文书 ]( https://book.flutterchina.club/ )    <br/>
    [ Flutter 学习视频:技术胖 ]( http://jspang.com/post/flutterDemo.html#toc-ff4 )    <br/>
    [ Flutter 学习demo ]( https://github.com/pheromone/Flutter_learn_demo )    <br/>
-
+   [ 电商实战 ]( https://github.com/pheromone/flutter_shop )    <br/>
 
 
 
