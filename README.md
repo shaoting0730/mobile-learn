@@ -20,7 +20,7 @@
  [ React Native 推送通知至RN且显示推送内容](https://pheromone.github.io/2018/09/08/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%AD%A6%E4%B9%A0/React%20Native%20%E6%8E%A8%E9%80%81%E9%80%9A%E7%9F%A5%E8%87%B3RN%E4%B8%94%E6%98%BE%E7%A4%BA%E6%8E%A8%E9%80%81%E5%86%85%E5%AE%B9/)    <br/>
    
  
-# Flutter
+# Flutter 🚗
    [ Dark2 中文文档 ]( https://www.kancloud.cn/marswill/dark2_document )    <br/>
    [ Flutter中文书 ]( https://book.flutterchina.club/ )    <br/>
    [ Flutter 学习视频:技术胖 ]( http://jspang.com/post/flutterDemo.html#toc-ff4 )    <br/>
@@ -30,10 +30,10 @@
    [ 项目实战练习 ]( https://github.com/pheromone/flutter_video_audio_news )    <br/>
 
 
-# 微信小程序
+# 微信小程序 🏍
    [ 第一次尝试微信小程序 ]( https://github.com/pheromone/FirstWeChatSmall )    <br/>
-# iOS
-## swift
+# iOS 🚋
+## swift 🚙
    [ swiftUI控件学习 ]( https://github.com/pheromone/swift_study )    <br/>
    [ swift制作的音视频demo,已适配swift3+ ]( https://github.com/pheromone/swift-video-audio )    <br/>
    [ 第一次学习游戏开发 采用swift3.0 ]( https://github.com/pheromone/Flappy-Bird )    <br/>
@@ -42,7 +42,7 @@
    [ swift3.0-自定义键盘  ]( https://github.com/pheromone/swift3.0-emojiKeyboard )    <br/>
 
    
-## oc
+## oc 🚚
    [ 学习下弹幕制作 ]( https://github.com/pheromone/danMu )    <br/>
    [ 学学习下动画 ]( https://github.com/pheromone/iOSAnimationLearn )    <br/>
    [ 二维码学习 ]( https://github.com/pheromone/QRcode )    <br/>
@@ -54,7 +54,7 @@
    
 
    
-# Android
+# Android 🚓
    [ java入门视频 ]( http://www.maiziedu.com/course/android/ )    <br/>
 
    
