@@ -23,7 +23,7 @@
 # Flutter 🚗
    [ Dark2 中文文档 ]( https://www.kancloud.cn/marswill/dark2_document )    <br/>
    [ Flutter中文书 ]( https://book.flutterchina.club/ )    <br/>
-   [ Flutter 学习视频:技术胖 ]( http://jspang.com/post/flutterDemo.html#toc-ff4 )    <br/>
+   [ Flutter 学习视频:技术胖 ]( https://jspang.com/ )    <br/>
    [ Flutter 学习视频: 哔哩哔哩 ](  https://space.bilibili.com/242124306/channel/detail?cid=64754 )    <br/>
    [ Flutter 学习demo ]( https://github.com/pheromone/Flutter_learn_demo )    <br/>
    [ 电商项目实战 ]( https://github.com/pheromone/flutter_shop )    <br/>
