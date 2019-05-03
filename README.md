@@ -19,6 +19,9 @@
    [ React Native 类似支付宝的应用增删模块的简单实现  ](https://pheromone.github.io/2018/08/17/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%AD%A6%E4%B9%A0/React%20Native%E7%B1%BB%E4%BC%BC%E6%94%AF%E4%BB%98%E5%AE%9D%E7%9A%84%E5%BA%94%E7%94%A8%E5%A2%9E%E5%88%A0%E6%A8%A1%E5%9D%97%E7%9A%84%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0/)    <br/>
  [ React Native 推送通知至RN且显示推送内容](https://pheromone.github.io/2018/09/08/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%AD%A6%E4%B9%A0/React%20Native%20%E6%8E%A8%E9%80%81%E9%80%9A%E7%9F%A5%E8%87%B3RN%E4%B8%94%E6%98%BE%E7%A4%BA%E6%8E%A8%E9%80%81%E5%86%85%E5%AE%B9/)    <br/>
   [ React Native 与Web基本交互](https://github.com/pheromone/webRN/tree/master)    <br/>
+  [react_navigation3.X demo](https://github.com/pheromone/react_navigation3.x_demo)    <br/>
+
+  
    
  
 # Flutter 🚗
