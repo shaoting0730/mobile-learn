@@ -20,6 +20,7 @@
  [ React Native 推送通知至RN且显示推送内容](https://pheromone.github.io/2018/09/08/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%AD%A6%E4%B9%A0/React%20Native%20%E6%8E%A8%E9%80%81%E9%80%9A%E7%9F%A5%E8%87%B3RN%E4%B8%94%E6%98%BE%E7%A4%BA%E6%8E%A8%E9%80%81%E5%86%85%E5%AE%B9/)    <br/>
   [ React Native 与Web基本交互](https://github.com/pheromone/webRN/tree/master)    <br/>
   [react_navigation3.X demo](https://github.com/pheromone/react_navigation3.x_demo)    <br/>
+  [react_navigation3.X 与 Mobx结合使用](https://github.com/pheromone/mobxRN)    <br/>
 
   
    
