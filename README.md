@@ -21,7 +21,7 @@
   [ React Native 与Web基本交互](https://github.com/pheromone/webRN/tree/master)    <br/>
   [react_navigation3.X demo](https://github.com/pheromone/react_navigation3.x_demo)    <br/>
   [react_navigation3.X 与 Mobx结合使用](https://github.com/pheromone/mobxRN)    <br/>
-  [react_native使用自定义字体]( https://github.com/pheromone/customFont_RN )    <br/>
+  [react_native使用自定义字体]( https://pheromone.github.io/2019/05/14/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%AD%A6%E4%B9%A0/React-Native%E4%BD%BF%E7%94%A8%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AD%97%E4%BD%93/ )    <br/>
 
    
  
