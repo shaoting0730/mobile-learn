@@ -29,6 +29,7 @@
 # Flutter 🚗
    [ Dark2 中文文档 ]( https://www.kancloud.cn/marswill/dark2_document )    <br/>
    [ Flutter中文书 ]( https://book.flutterchina.club/ )    <br/>
+   [ Flutter 您需要知道的知识点-公众号:谷歌开发者 ]( https://book.flutterchina.club/ )    <br/>
    [ Flutter 跨平台移动应用开发实战 电子书 ]( https://flutter-app-in-action.netlify.com/#/get-start )    <br/>
    [ Flutter 学习视频:技术胖 ]( https://jspang.com/ )    <br/>
    [ Flutter 学习视频: 哔哩哔哩 ](  https://space.bilibili.com/242124306/channel/detail?cid=64754 )    <br/>
