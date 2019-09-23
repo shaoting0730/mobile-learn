@@ -6,6 +6,7 @@
    [ Flutter 跨平台移动应用开发实战 电子书 ]( https://flutter-app-in-action.netlify.com/#/get-start )    <br/>
    [ Flutter 闲鱼技术-语雀 ](  https://www.yuque.com/xytech/flutter )    <br/>
    [ Flutter 闲鱼技术-云栖 ](  https://yq.aliyun.com/users/rtcqgnmjifzda )    <br/>
+   [ Flutter 技术点:美团技术团队 ]( https://mp.weixin.qq.com/s/cJjKZCqc8UuzvEtxK1BJCw?t=1547530259566&scene=25#wechat_redirect )    <br/>
    [ Flutter 学习视频:技术胖 ]( https://jspang.com/ )    <br/>
    [ Flutter 学习视频: 哔哩哔哩 ](  https://space.bilibili.com/242124306/channel/detail?cid=64754 )    <br/>
    [ Flutter 学习demo ]( https://github.com/pheromone/Flutter_learn_demo )    <br/>
