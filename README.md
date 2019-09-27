@@ -10,11 +10,13 @@
    [ Flutter 学习视频:技术胖 ]( https://jspang.com/ )    <br/>
    [ Flutter 学习视频: 哔哩哔哩 ](  https://space.bilibili.com/242124306/channel/detail?cid=64754 )    <br/>
    [ Flutter 学习demo ]( https://github.com/pheromone/Flutter_learn_demo )    <br/>
+   [ 京东:Flutter扩展到类小程序平台 ]( https://github.com/areslabs/flutter_mp/ )    <br/>
    [ 电商项目实战 ]( https://github.com/pheromone/flutter_shop )    <br/>
    [ 项目实战练习 ]( https://github.com/pheromone/flutter_video_audio_news )    <br/>
    
 # React Native🚈
    [ React Native学习 ]( https://github.com/pheromone/React-Native-study )    <br/>
+   [ 京东:React Native代码转换成微信小程序代码的转换引擎工具  ]( https://github.com/areslabs/alita )    <br/>
    [ 关于iOS和React Native的交互 ]( https://github.com/pheromone/IOS-native-and-React-native-interaction )    <br/>
    [ 关于Android和React Native的简单交互 ]( https://github.com/pheromone/androidrn )    <br/> 
    [ react-navigation的介绍 ]( https://github.com/pheromone/navigationDemo )    <br/> 
