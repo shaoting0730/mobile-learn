@@ -7,6 +7,8 @@
    [ Flutter 闲鱼技术-语雀 ](  https://www.yuque.com/xytech/flutter )    <br/>
    [ Flutter 闲鱼技术-云栖 ](  https://yq.aliyun.com/users/rtcqgnmjifzda )    <br/>
    [ Flutter 闲鱼最佳实践PDF ](  https://files.alicdn.com/tpsservice/f91cbfb31d27f1a470c4ee138f9120b9.pdf?spm=a2c6h.12873639.0.0.5bda5ef1yBcCCo&file=f91cbfb31d27f1a470c4ee138f9120b9.pdf )    <br/>
+   [ Flutter 闲鱼最佳实践直播 ](  
+https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cmNlX3R5cGUiOjQsInJlc291cmNlX2lkIjoibF81ZGE0M2VlODc1NjQ1X1FHTGlaS1J4IiwiYXBwX2lkIjoiYXBweWNZRmFxY3ExOTUxIiwicHJvZHVjdF9pZCI6IiIsInNoYXJlX3VzZXJfaWQiOiJ1XzVkYTZhYTJkZTc4YjFfUzFLSVFTYlBmTyIsInNoYXJlX3R5cGUiOjEwMCwic2NlbmUiOiLliIbkuqsifQ== )    <br/>
    [ Flutter 技术点:美团技术团队 ]( https://mp.weixin.qq.com/s/cJjKZCqc8UuzvEtxK1BJCw?t=1547530259566&scene=25#wechat_redirect )    <br/>
    [ Flutter 学习视频:技术胖 ]( https://jspang.com/ )    <br/>
    [ Flutter 学习视频: 哔哩哔哩 ](  https://space.bilibili.com/242124306/channel/detail?cid=64754 )    <br/>
