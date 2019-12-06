@@ -10,7 +10,7 @@
    [ Flutter 闲鱼最佳实践直播 ](  
 https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cmNlX3R5cGUiOjQsInJlc291cmNlX2lkIjoibF81ZGE0M2VlODc1NjQ1X1FHTGlaS1J4IiwiYXBwX2lkIjoiYXBweWNZRmFxY3ExOTUxIiwicHJvZHVjdF9pZCI6IiIsInNoYXJlX3VzZXJfaWQiOiJ1XzVkYTZhYTJkZTc4YjFfUzFLSVFTYlBmTyIsInNoYXJlX3R5cGUiOjEwMCwic2NlbmUiOiLliIbkuqsifQ== )    <br/>
    [ Flutter 技术点:美团技术团队 ]( https://mp.weixin.qq.com/s/cJjKZCqc8UuzvEtxK1BJCw?t=1547530259566&scene=25#wechat_redirect )    <br/>
-   [ Flutter 字节跳动直播,使用手机可以看录播 ](    https://live.ixigua.com/room/6762336656306670339  )    <br/>
+   [ Flutter 字节跳动直播 ](    https://mp.weixin.qq.com/s/UrWxYgchb-F3AqqzGrYWew  )    <br/>
    [ Flutter 学习视频:技术胖 ]( https://jspang.com/ )    <br/>
    [ Flutter 学习视频: 哔哩哔哩 ](  https://space.bilibili.com/242124306/channel/detail?cid=64754 )    <br/>
    [ Flutter 学习demo ]( https://github.com/pheromone/Flutter_learn_demo )    <br/>
