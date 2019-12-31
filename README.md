@@ -18,8 +18,8 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ Flutter 学习视频: 哔哩哔哩 ](  https://space.bilibili.com/242124306/channel/detail?cid=64754 )    <br/>
    [ 京东:Flutter扩展到类小程序平台 ]( https://github.com/areslabs/flutter_mp/ )    <br/>
    [ Flutter 学习demo ]( https://github.com/pheromone/Flutter_learn_demo )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/mobile-learn.svg?style=social&label=Stars)](https://github.com/pheromone/Flutter_learn_demo) <br/>
-   [ 电商项目实战 ]( https://github.com/pheromone/flutter_shop )    <br/>
-   [ 项目实战练习 ]( https://github.com/pheromone/flutter_video_audio_news )    <br/>
+   [ 电商项目实战 ]( https://github.com/pheromone/flutter_shop ) [![GitHub stars](https://img.shields.io/github/stars/pheromone/flutter_shop.svg?style=social&label=Stars)](https://github.com/pheromone/flutter_shop)   <br/>
+   [ 项目实战练习 ]( https://github.com/pheromone/flutter_video_audio_news )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/flutter_video_audio_news.svg?style=social&label=Stars)](https://github.com/pheromone/flutter_video_audio_news)  <br/>
    
 # React Native🚈
    [ React Native学习 ]( https://github.com/pheromone/React-Native-study )    <br/>
