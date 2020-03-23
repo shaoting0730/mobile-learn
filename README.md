@@ -9,7 +9,6 @@
    [ Dark2 中文文档 ]( https://www.kancloud.cn/marswill/dark2_document )    <br/>
    [ Flutter中文书 ]( https://book.flutterchina.club/ )    <br/>
    [ Flutter 您需要知道的知识点-公众号:谷歌开发者 ]( https://mp.weixin.qq.com/s/4tdqptBIf4VHrjWmHeUKjA )    <br/>
-   [ Flutter 跨平台移动应用开发实战 电子书 ]( https://flutter-app-in-action.netlify.com/#/get-start )    <br/>
    [ Flutter 闲鱼技术-语雀 ](  https://www.yuque.com/xytech/flutter )    <br/>
    [ Flutter 闲鱼技术-云栖 ](  https://yq.aliyun.com/users/rtcqgnmjifzda )    <br/>
    [ Flutter 闲鱼最佳实践PDF ]( http://c.tb.cn/I3.ZZpRl )    <br/>
@@ -71,7 +70,6 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ iOS-touchID-demo ]( https://github.com/pheromone/iOS-touchID-demo )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/iOS-touchID-demo?style=social&label=Stars)](https://github.com/pheromone/iOS-touchID-demo)  <br/>
    [ iOS-Scoket入门 ]( https://github.com/pheromone/iOS-Scoket- )   [![GitHub stars](https://img.shields.io/github/stars/pheromone/iOS-Scoket-?style=social&label=Stars)](https://github.com/pheromone/iOS-Scoket-)   <br/>
    [ JavaScriptCore.framework的简单使用--JS与OC的交互 ]( https://github.com/pheromone/JavaScriptCore_demo ) [![GitHub stars](https://img.shields.io/github/stars/pheromone/JavaScriptCore_demo?style=social&label=Stars)](https://github.com/pheromone/JavaScriptCore_demo)    <br/>
-
 
 
  # Android 🚓	
