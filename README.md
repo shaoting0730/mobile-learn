@@ -12,7 +12,7 @@
    [ Flutter 跨平台移动应用开发实战 电子书 ]( https://flutter-app-in-action.netlify.com/#/get-start )    <br/>
    [ Flutter 闲鱼技术-语雀 ](  https://www.yuque.com/xytech/flutter )    <br/>
    [ Flutter 闲鱼技术-云栖 ](  https://yq.aliyun.com/users/rtcqgnmjifzda )    <br/>
-   [ Flutter 闲鱼最佳实践PDF ]( chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Ffiles.alicdn.com%2Ftpsservice%2Ff91cbfb31d27f1a470c4ee138f9120b9.pdf%3Fspm%3Da2c6h.12873639.0.0.416d5ef14Zjvoo%26file%3Df91cbfb31d27f1a470c4ee138f9120b9.pdf%26short_name%3DI3.ZZpRl%26app%3Dchrome )    <br/>
+   [ Flutter 闲鱼最佳实践PDF ]( http://c.tb.cn/I3.ZZpRl )    <br/>
    [ Flutter 闲鱼最佳实践直播 ](  
 https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cmNlX3R5cGUiOjQsInJlc291cmNlX2lkIjoibF81ZGE0M2VlODc1NjQ1X1FHTGlaS1J4IiwiYXBwX2lkIjoiYXBweWNZRmFxY3ExOTUxIiwicHJvZHVjdF9pZCI6IiIsInNoYXJlX3VzZXJfaWQiOiJ1XzVkYTZhYTJkZTc4YjFfUzFLSVFTYlBmTyIsInNoYXJlX3R5cGUiOjEwMCwic2NlbmUiOiLliIbkuqsifQ== )    <br/>
    [ Flutter 技术点:美团技术团队 ]( https://mp.weixin.qq.com/s/cJjKZCqc8UuzvEtxK1BJCw?t=1547530259566&scene=25#wechat_redirect )    <br/>
