@@ -46,7 +46,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
   [ React Native 与Web基本交互](https://github.com/pheromone/webRN/tree/master)  [![GitHub stars](https://img.shields.io/github/stars/pheromone/webRN?style=social&label=Stars)](https://github.com/pheromone/webRN)    <br/>
   [react_navigation3.X demo](https://github.com/pheromone/react_navigation3.x_demo) [![GitHub stars](https://img.shields.io/github/stars/pheromone/react_navigation3.x_demo?style=social&label=Stars)](https://github.com/pheromone/react_navigation3.x_demo)    <br/>
   [react_navigation3.X 与 Mobx结合使用](https://github.com/pheromone/mobxRN)   [![GitHub stars](https://img.shields.io/github/stars/pheromone/mobxRN?style=social&label=Stars)](https://github.com/pheromone/mobxRN)   <br/>
-  [react_native使用自定义字体]( https://pheromone.github.io/2019/05/14/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%AD%A6%E4%B9%A0/React-Native%E4%BD%BF%E7%94%A8%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AD%97%E4%BD%93/ )    <br/>
+  [react_native使用自定义字体]( https://zhoushaoting.com/2019/05/14/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%AD%A6%E4%B9%A0/React-Native%E4%BD%BF%E7%94%A8%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AD%97%E4%BD%93/ )    <br/>
 
 # 微信小程序 🏍
    [ 第一次尝试微信小程序 ]( https://github.com/pheromone/FirstWeChatSmall )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/FirstWeChatSmall?style=social&label=Stars)](https://github.com/pheromone/FirstWeChatSmall)    <br/>
