@@ -6,6 +6,7 @@
 # Flutter 🚗
    [ Dark2 中文文档 ]( https://www.kancloud.cn/marswill/dark2_document )    <br/>
    [ Flutter中文书 ]( https://book.flutterchina.club/ )    <br/>
+   [ GSY Flutter 在线书籍 ]( https://guoshuyu.cn/home/wx/ )    <br/>
    [ Flutter 您需要知道的知识点-公众号:谷歌开发者 ]( https://mp.weixin.qq.com/s/4tdqptBIf4VHrjWmHeUKjA )    <br/>
    [ Flutter 闲鱼技术-语雀 ](  https://www.yuque.com/xytech/flutter )    <br/>
    [ Flutter 闲鱼技术-云栖 ](  https://yq.aliyun.com/users/rtcqgnmjifzda )    <br/>
