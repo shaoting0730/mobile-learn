@@ -19,7 +19,6 @@
 https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cmNlX3R5cGUiOjQsInJlc291cmNlX2lkIjoibF81ZGE0M2VlODc1NjQ1X1FHTGlaS1J4IiwiYXBwX2lkIjoiYXBweWNZRmFxY3ExOTUxIiwicHJvZHVjdF9pZCI6IiIsInNoYXJlX3VzZXJfaWQiOiJ1XzVkYTZhYTJkZTc4YjFfUzFLSVFTYlBmTyIsInNoYXJlX3R5cGUiOjEwMCwic2NlbmUiOiLliIbkuqsifQ== )    <br/>
    [ Flutter 技术点:美团技术团队 ]( https://mp.weixin.qq.com/s/cJjKZCqc8UuzvEtxK1BJCw?t=1547530259566&scene=25#wechat_redirect )    <br/>
    [ Flutter 字节跳动直播 ](    https://mp.weixin.qq.com/s/UrWxYgchb-F3AqqzGrYWew  )    <br/>
-   [ Flutter 学习视频:技术胖 ]( https://jspang.com/ )    <br/>
    [ 京东:Flutter扩展到类小程序平台 ]( https://github.com/areslabs/flutter_mp/ )    <br/>
    [ Flutter 学习demo ]( https://github.com/pheromone/Flutter_learn_demo )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/Flutter_learn_demo.svg?style=social&label=Stars)](https://github.com/pheromone/Flutter_learn_demo) <br/>
    [ 电商项目实战 ]( https://github.com/pheromone/flutter_shop ) [![GitHub stars](https://img.shields.io/github/stars/pheromone/flutter_shop.svg?style=social&label=Stars)](https://github.com/pheromone/flutter_shop)   <br/>
