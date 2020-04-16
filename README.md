@@ -12,7 +12,7 @@
    [ Flutter 闲鱼技术-语雀 ](  https://www.yuque.com/xytech/flutter )    <br/>
    [ Flutter 闲鱼技术-云栖 ](  https://yq.aliyun.com/users/rtcqgnmjifzda )    <br/>
    [ Flutter 闲鱼最佳实践PDF ]( http://c.tb.cn/I3.ZZpRl )    <br/>
-   [[AliFlutter客户端研发体系概览] 直播回放 ]( http://mudu.tv/watch/5466337)    <br/>
+   [ AliFlutter 系列直播一期：AliFlutter客户端研发体系概览 ]( http://mudu.tv/watch/5466337)    <br/>
    [[AliFlutter客户端研发体系概览]PPT ]( https://files.alicdn.com/tpsservice/89ab52b6cec155a86578e0aa4c8e4c08.pdf)    <br/>
    [[闲鱼研发框架应用和探索]PPT ]( https://files.alicdn.com/tpsservice/2a6760dd0ffb62678d0bde1e76d0b1f8.pdf )    <br/>
    [ Flutter 闲鱼最佳实践直播 ](  
