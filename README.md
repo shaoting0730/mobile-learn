@@ -19,12 +19,12 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ Flutter 技术点:美团技术团队 ]( https://mp.weixin.qq.com/s/cJjKZCqc8UuzvEtxK1BJCw?t=1547530259566&scene=25#wechat_redirect )    <br/>
    [ Flutter 字节跳动直播 ](    https://mp.weixin.qq.com/s/UrWxYgchb-F3AqqzGrYWew  )    <br/>
    [ 京东:Flutter扩展到类小程序平台 ]( https://github.com/areslabs/flutter_mp/ )    <br/>
-   [ Flutter 学习demo ]( https://github.com/pheromone/Flutter_learn_demo )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/Flutter_learn_demo.svg?style=social&label=Stars)](https://github.com/pheromone/Flutter_learn_demo) <br/>
+   [ Flutter 学习历程demo ]( https://github.com/pheromone/Flutter_learn_demo )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/Flutter_learn_demo.svg?style=social&label=Stars)](https://github.com/pheromone/Flutter_learn_demo) <br/>
    [ 电商项目实战 ]( https://github.com/pheromone/flutter_shop ) [![GitHub stars](https://img.shields.io/github/stars/pheromone/flutter_shop.svg?style=social&label=Stars)](https://github.com/pheromone/flutter_shop)   <br/>
    [ 项目实战练习 ]( https://github.com/pheromone/flutter_video_audio_news )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/flutter_video_audio_news.svg?style=social&label=Stars)](https://github.com/pheromone/flutter_video_audio_news)  <br/>
    
 # React Native🚈
-   [ React Native学习 ]( https://github.com/pheromone/React-Native-study )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/React-Native-study.svg?style=social&label=Stars)](https://github.com/pheromone/React-Native-study)  <br/>
+   [ React Native学习历程 ]( https://github.com/pheromone/React-Native-study )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/React-Native-study.svg?style=social&label=Stars)](https://github.com/pheromone/React-Native-study)  <br/>
    [ 京东:React Native代码转换成微信小程序代码的转换引擎工具  ]( https://github.com/areslabs/alita )    <br/>
    [ 关于iOS和React Native的交互 ]( https://github.com/pheromone/IOS-native-and-React-native-interaction )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/IOS-native-and-React-native-interaction.svg?style=social&label=Stars)](https://github.com/pheromone/IOS-native-and-React-native-interaction)    <br/>
    [ 关于Android和React Native的简单交互 ]( https://github.com/pheromone/androidrn )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/androidrn.svg?style=social&label=Stars)](https://github.com/pheromone/androidrn)  <br/> 
@@ -52,7 +52,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ 第一次尝试微信小程序 ]( https://github.com/pheromone/FirstWeChatSmall )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/FirstWeChatSmall?style=social&label=Stars)](https://github.com/pheromone/FirstWeChatSmall)    <br/>
 # iOS 🚋
 ## swift 🚙
-   [ swiftUI控件学习 ]( https://github.com/pheromone/swift_study )   [![GitHub stars](https://img.shields.io/github/stars/pheromone/swift_study?style=social&label=Stars)](https://github.com/pheromone/swift_study)    <br/>
+   [ swiftUI控件学习历程 ]( https://github.com/pheromone/swift_study )   [![GitHub stars](https://img.shields.io/github/stars/pheromone/swift_study?style=social&label=Stars)](https://github.com/pheromone/swift_study)    <br/>
    [ swift制作的音视频demo,已适配swift3+ ]( https://github.com/pheromone/swift-video-audio )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/swift-video-audio?style=social&label=Stars)](https://github.com/pheromone/swift-video-audio)    <br/>
    [ 第一次学习游戏开发 采用swift3.0 ]( https://github.com/pheromone/Flappy-Bird )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/Flappy-Bird?style=social&label=Stars)](https://github.com/pheromone/Flappy-Bird)    <br/>
    [ 之前项目的相机模块,保留一下 ]( https://github.com/pheromone/swift_custom_camera ) [![GitHub stars](https://img.shields.io/github/stars/pheromone/swift_custom_camera?style=social&label=Stars)](https://github.com/pheromone/swift_custom_camera)     <br/>
