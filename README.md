@@ -7,6 +7,7 @@
    [ Dark2 中文文档 ]( https://www.kancloud.cn/marswill/dark2_document )    <br/>
    [ Flutter中文书 ]( https://book.flutterchina.club/ )    <br/>
    [ GSY Flutter 在线书籍 ]( http://laomengit.com/ )    <br/>
+   [ 国内大厂在移动端跨平台的框架接入分析 ](  https://juejin.im/post/5ed45cf2e51d457858775d01 )    <br/>
    [ Flutter 各widget演示:老孟程序员]( http://laomengit.com/ )    <br/>
    [ Flutter 您需要知道的知识点-公众号:谷歌开发者 ]( https://mp.weixin.qq.com/s/4tdqptBIf4VHrjWmHeUKjA )    <br/>
    [ Flutter 闲鱼技术-语雀 ](  https://www.yuque.com/xytech/flutter )    <br/>
