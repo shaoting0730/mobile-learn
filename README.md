@@ -25,7 +25,9 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ 京东:Flutter扩展到类小程序平台 ]( https://github.com/areslabs/flutter_mp/ )    <br/>
    [ Flutter开发插件并发布到pub ]( https://www.jianshu.com/p/f1ed21dc2e30 )    <br/>
    [ Flutter开发中启用Dart DevTools 连接App进行调试 ]( https://blog.csdn.net/u013560890/article/details/97144248 )    <br/>
-   [ Flutter 学习历程demo ]( https://github.com/pheromone/Flutter_learn_demo )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/Flutter_learn_demo.svg?style=social&label=Stars)](https://github.com/pheromone/Flutter_learn_demo) <br/>
+   [ 定位Flutter内存问题很难么？ ]( https://mp.weixin.qq.com/s/g5MJSvlCH3GcP0DLaRcRiQ )    <br/>
+   [ 从架构到源码：一文了解Flutter渲染机制 ]( https://mp.weixin.qq.com/s/wpU2APDdJdjMYkj5Kz2lTw )    <br/>
+  [ Flutter 学习历程demo ]( https://github.com/pheromone/Flutter_learn_demo )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/Flutter_learn_demo.svg?style=social&label=Stars)](https://github.com/pheromone/Flutter_learn_demo) <br/>
    [ 电商项目实战 ]( https://github.com/pheromone/flutter_shop ) [![GitHub stars](https://img.shields.io/github/stars/pheromone/flutter_shop.svg?style=social&label=Stars)](https://github.com/pheromone/flutter_shop)   <br/>
    [ 项目实战练习 ]( https://github.com/pheromone/flutter_video_audio_news )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/flutter_video_audio_news.svg?style=social&label=Stars)](https://github.com/pheromone/flutter_video_audio_news)  <br/>
    
