@@ -6,12 +6,12 @@
    [ Dark2 中文文档 ]( https://www.kancloud.cn/marswill/dark2_document )    <br/>
    [ Flutter中文书 ]( https://book.flutterchina.club/ )    <br/>
    [ Flutter 跨平台演进及架构开篇-头条 ]( http://gityuan.com/flutter/ )    <br/>
-   [ GSY Flutter 在线书籍 ]( https://guoshuyu.cn/home/wx/Flutter-0.html )    <br/>
+   [ 零、GSY历程·GitBook ]( https://guoshuyu.cn/home/wx/Flutter-0.html )    <br/>
    [ 深入理解Flutter引擎架构--Gityuan ]( https://xiaozhuanlan.com/gityuan_flutter )    <br/>
    [ 淘系技术 ]( https://blog.csdn.net/Taobaojishu )    <br/>
    [ AliFlutter体系化建设和实践 pdf ]( https://github.com/pheromone/mobile-learn/blob/master/AliFlutter%E4%BD%93%E7%B3%BB%E5%8C%96%E5%BB%BA%E8%AE%BE%E5%92%8C%E5%AE%9E%E8%B7%B5.pdf )    <br/>
    [ 国内大厂在移动端跨平台的框架接入分析 ](  https://juejin.im/post/5ed45cf2e51d457858775d01 )    <br/>
-   [ Flutter 各widget演示:老孟程序员]( http://laomengit.com/ )    <br/>
+   [ 老孟程序员-Flutter 实战入门]( http://laomengit.com/ )    <br/>
    [ Flutter 您需要知道的知识点-公众号:谷歌开发者 ]( https://mp.weixin.qq.com/s/4tdqptBIf4VHrjWmHeUKjA )    <br/>
    [ Flutter 闲鱼技术-语雀 ](  https://www.yuque.com/xytech/flutter )    <br/>
    [ Flutter 闲鱼技术-云栖 ](  https://yq.aliyun.com/users/rtcqgnmjifzda )    <br/>
