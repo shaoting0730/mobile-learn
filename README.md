@@ -66,6 +66,8 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
 # 微信小程序 🏍
    [ 第一次尝试微信小程序 ]( https://github.com/pheromone/FirstWeChatSmall )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/FirstWeChatSmall?style=social&label=Stars)](https://github.com/pheromone/FirstWeChatSmall)    <br/>
 # iOS 🚋
+
+   [iOS-面试题集 ]( https://www.jianshu.com/p/25324d04797d )    <br/>
    [iOS-Block ]( https://www.jianshu.com/p/25a7ba546eac )    <br/>
 
 ## swift 🚙
