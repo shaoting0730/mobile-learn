@@ -14,6 +14,6 @@
 「Flutter 在饿了么的应用与沉淀」PPT：https://files.alicdn.com/tpsservice/568e1747c3f0bb09313a0b1b6a4b4107.pdf  <br/>
 
 # 第二批次
-【第一期】Flutter工程化与优化实践
-PPT下载:https://files.alicdn.com/tpsservice/bb31e2d33177c80c0e2fb78ff6784cd1.pdf
-视频回放：http://mudu.tv/watch/7236989
+【第一期】Flutter工程化与优化实践 <br/>
+PPT下载:https://files.alicdn.com/tpsservice/bb31e2d33177c80c0e2fb78ff6784cd1.pdf <br/>
+视频回放：http://mudu.tv/watch/7236989 <br/>
