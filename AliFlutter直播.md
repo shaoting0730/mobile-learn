@@ -14,15 +14,18 @@
 「Flutter 在饿了么的应用与沉淀」PPT：https://files.alicdn.com/tpsservice/568e1747c3f0bb09313a0b1b6a4b4107.pdf  <br/>
 
 # 第二批次
-【第一期】Flutter工程化与优化实践  <br/>
+【第一期】Flutter工程化与优化实践 <br/>
 PPT下载:https://files.alicdn.com/tpsservice/bb31e2d33177c80c0e2fb78ff6784cd1.pdf  <br/>
 视频回放：http://mudu.tv/watch/7236989  <br/>
 【第二期】 <br/>
-PPT下载：https://files.alicdn.com/tpsservice/23aaeefbb6bdb2794f0977aaa939a133.pdf  <br/>
-视频回放：http://mudu.tv/watch/7237244  <br/>
-【第三期】  <br/>
-PPT下载：https://files.alicdn.com/tpsservice/2a6ad62c78044fa28c366c4b0a6b8573.pdf   <br/>
-视频回放：http://mudu.tv/watch/7237278   <br/>
-【第四期】  <br/>
-PPT下载：https://files.alicdn.com/tpsservice/53d5932de38f825e8c89a43c7095cfca.pdf   <br/>
+PPT下载：https://files.alicdn.com/tpsservice/23aaeefbb6bdb2794f0977aaa939a133.pdf <br/>
+视频回放：http://mudu.tv/watch/7237244 <br/>
+【第三期】<br/>
+PPT下载：https://files.alicdn.com/tpsservice/2a6ad62c78044fa28c366c4b0a6b8573.pdf <br/>
+视频回放：http://mudu.tv/watch/7237278 <br/>
+【第四期】 <br/>
+PPT下载：https://files.alicdn.com/tpsservice/53d5932de38f825e8c89a43c7095cfca.pdf <br/>
 视频回放：http://mudu.tv/watch/7237346 <br/>
+【第五期】 <br/>
+PPT下载：https://files.alicdn.com/tpsservice/d283475004dfd98e17fcb47b9c499a70.pdf <br/>
+视频回放：http://mudu.tv/watch/7237448 <br/>
