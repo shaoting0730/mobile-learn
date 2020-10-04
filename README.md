@@ -69,7 +69,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ 唐巧的博客 ]( https://blog.devtang.com/ )    <br/>
    [iOS-面试题集 ]( https://hit-alibaba.github.io/interview/ )    <br/>
    [iOS-面试题集 ]( https://www.jianshu.com/p/25324d04797d )    <br/>
-   [iOS-block ]( https://www.jianshu.com/p/25a7ba546eac )    <br/>
+   [iOS-block ]( https://github.com/pheromone/mobile-learn/blob/master/iOS/block.md )    <br/>
    [iOS-copy ](  https://github.com/pheromone/mobile-learn/blob/master/iOS/copy.md )    <br/>
    [iOS-weak ](    https://github.com/pheromone/mobile-learn/blob/master/iOS/weak.md )    <br/>
 
