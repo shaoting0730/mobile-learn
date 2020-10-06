@@ -4,4 +4,7 @@
    [ iOS-多层嵌套block中如何使用__weak和__strong ]( https://blog.csdn.net/nathan1987_/article/details/82749057 )    <br/>
    [ iOS-block关键字的理解 ]( https://www.jianshu.com/p/e5b56b883d54 )    <br/>
    [ iOS-block关键字的底层实现原理 ]( https://www.jianshu.com/p/404ff9d3cd42 )    <br/>
+   [ iOS-__weak和__strong在Block中的使用 ]( https://www.jianshu.com/p/fe772a3536ca )  <br/>
+   [ iOS-__block、__strong和__weak使用 ]( https://blog.csdn.net/wsh7365062/article/details/51594225 )    <br/>
+
 
