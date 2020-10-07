@@ -69,12 +69,12 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ 唐巧的博客 ]( https://blog.devtang.com/ )    <br/>
    [iOS-面试题集 ]( https://hit-alibaba.github.io/interview/ )    <br/>
    [iOS-面试题集 ]( https://www.jianshu.com/p/25324d04797d )    <br/>
+   [iOS-内存管理 ]( https://github.com/pheromone/mobile-learn/blob/master/iOS/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md )    <br/>
    [iOS-block ]( https://github.com/pheromone/mobile-learn/blob/master/iOS/block.md )    <br/>
    [iOS-copy ](  https://github.com/pheromone/mobile-learn/blob/master/iOS/copy.md )    <br/>
    [iOS-weak ](  https://github.com/pheromone/mobile-learn/blob/master/iOS/weak.md )    <br/>
    [iOS-KVC&KVO ](   https://github.com/pheromone/mobile-learn/blob/master/iOS/KVC&KVO.md )    <br/>
-   [iOS-分类[category] 扩展[extension] ](      https://github.com/pheromone/mobile-learn/blob/master/iOS/%E5%88%86%E7%B1%BB&%E6%89%A9%E5%B1%95.md )    <br/>
-
+   [iOS-分类[category] 扩展[extension] ]( https://github.com/pheromone/mobile-learn/blob/master/iOS/%E5%88%86%E7%B1%BB&%E6%89%A9%E5%B1%95.md )    <br/>
 
 
 
