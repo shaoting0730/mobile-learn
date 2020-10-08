@@ -71,6 +71,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [iOS-面试题集 ]( https://www.jianshu.com/p/25324d04797d )    <br/>
    [iOS-内存管理 ]( https://github.com/pheromone/mobile-learn/blob/master/iOS/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md )    <br/>
    [iOS-block ]( https://github.com/pheromone/mobile-learn/blob/master/iOS/block.md )    <br/>
+   [iOS-多线程 ]( https://github.com/pheromone/mobile-learn/blob/master/iOS/iOS-%E5%A4%9A%E7%BA%BF%E7%A8%8B.md )    <br/>
    [iOS-copy ](  https://github.com/pheromone/mobile-learn/blob/master/iOS/copy.md )    <br/>
    [iOS-weak ](  https://github.com/pheromone/mobile-learn/blob/master/iOS/weak.md )    <br/>
    [iOS-KVC&KVO ](   https://github.com/pheromone/mobile-learn/blob/master/iOS/KVC&KVO.md )    <br/>
