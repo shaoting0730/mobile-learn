@@ -1,5 +1,5 @@
 
-   [ block ]( https://blog.csdn.net/nathan1987_/article/details/82749057 )    <br/>
+   [ block ]( http://www.samirchen.com/block-in-objc/ )    <br/>
    [ iOS中Block 浅谈 ]( https://www.jianshu.com/p/25a7ba546eac )    <br/>
    [ iOS中Block本质 ]( https://www.jianshu.com/p/4e79e9a0dd82 )    <br/>
    [ iOS中多层嵌套block中如何使用__weak和__strong ]( https://blog.csdn.net/nathan1987_/article/details/82749057 )    <br/>
