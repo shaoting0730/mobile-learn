@@ -105,9 +105,8 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ java入门视频 ]( http://www.maiziedu.com/course/android/ )    <br/>
    [ kotlin 入门]( https://lixiaojun.xin/static/courses/kotlin/#kotlin%E7%9A%84%E5%8E%86%E5%8F%B2 )    <br/>
 
- # 杂类 🚢	
-   [ Socket技术详解 ]( https://www.jianshu.com/p/066d99da7cbd )    <br/>
-   [ Socket粘包问题 ]( https://blog.csdn.net/binghuazh/article/details/4222516 )    <br/>
+ # 杂类 🚢
+   [ Socket ]( https://github.com/pheromone/mobile-learn/blob/master/Socket.md )    <br/>
 
 
 
