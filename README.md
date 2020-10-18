@@ -7,6 +7,7 @@
    [ Flutter中文书 ]( https://book.flutterchina.club/ )    <br/>
    [ Flutter 核心技术与实战 ](    https://www.kancloud.cn/alex_wsc/flutter_demo/1559549 )    <br/>
    [ Flutter 跨平台演进及架构开篇-头条 ]( http://gityuan.com/flutter/ )    <br/>
+   [ Flutter原理与实践-美团 ]( https://tech.meituan.com/2018/08/09/waimai-flutter-practice.html )    <br/>
    [ 零、GSY历程·GitBook ]( https://guoshuyu.cn/home/wx/Flutter-0.html )    <br/>
    [ 深入理解Flutter引擎架构--Gityuan ]( https://xiaozhuanlan.com/gityuan_flutter )    <br/>
    [ 淘系技术 ]( https://blog.csdn.net/Taobaojishu )    <br/>
