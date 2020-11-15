@@ -15,7 +15,6 @@
    [ 国内大厂在移动端跨平台的框架接入分析 ](  https://juejin.im/post/5ed45cf2e51d457858775d01 )    <br/>
    [ 老孟程序员-Flutter 实战入门]( http://laomengit.com/ )    <br/>
    [ Flutter 您需要知道的知识点-公众号:谷歌开发者 ]( https://mp.weixin.qq.com/s/4tdqptBIf4VHrjWmHeUKjA )    <br/>
-   [ Dart 健全的空安全 ]( https://mp.weixin.qq.com/s/zdlsdv8ymyQTHmf1iLCyWA )    <br/>
    [ Flutter 闲鱼技术-语雀 ](  https://www.yuque.com/xytech/flutter )    <br/>
    [ Flutter 闲鱼技术-云栖 ](  https://yq.aliyun.com/users/rtcqgnmjifzda )    <br/>
    [ Flutter 闲鱼最佳实践PDF ]( http://c.tb.cn/I3.ZZpRl )    <br/>
