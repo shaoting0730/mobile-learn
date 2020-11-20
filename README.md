@@ -5,6 +5,7 @@
    [ What's Flutter??? ]( https://zhuanlan.zhihu.com/p/52666477 )    <br/>
    [ Dark2 中文文档 ]( https://www.kancloud.cn/marswill/dark2_document )    <br/>
    [ Flutter中文书 ]( https://book.flutterchina.club/ )    <br/>
+   [ 一个很棒的Flutter学习资源:由crazycodeboy提供 ](  https://github.com/crazycodeboy/awesome-flutter-cn#%E7%BB%84%E4%BB%B6  )    <br/>
    [ Flutter 核心技术与实战 ](    https://www.kancloud.cn/alex_wsc/flutter_demo/1559549 )    <br/>
    [ Flutter 跨平台演进及架构开篇-头条 ]( http://gityuan.com/flutter/ )    <br/>
    [ Flutter原理与实践-美团 ]( https://tech.meituan.com/2018/08/09/waimai-flutter-practice.html )    <br/>
