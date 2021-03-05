@@ -3,6 +3,8 @@
   
 # Flutter 🚗
    [ What's Flutter??? ]( https://zhuanlan.zhihu.com/p/52666477 )    <br/>
+   [ 谷歌中国B站-Flutter Engage 主题演讲 ]( https://www.bilibili.com/medialist/play/ml1195151358/BV125411N7AU )    <br/>
+   [ 谷歌中国-微信公众号 ]( https://mp.weixin.qq.com/s/lc58-tWSJlkRvT6veL17KQ )    <br/>
    [ Dark2 中文文档 ]( https://www.kancloud.cn/marswill/dark2_document )    <br/>
    [ Flutter中文书 ]( https://book.flutterchina.club/ )    <br/>
    [ 一个很棒的Flutter学习资源:由crazycodeboy提供 ](  https://github.com/crazycodeboy/awesome-flutter-cn#%E7%BB%84%E4%BB%B6  )    <br/>
