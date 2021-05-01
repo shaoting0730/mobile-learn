@@ -77,6 +77,8 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
 
 # 微信小程序 🏍
    [ 第一次尝试微信小程序 ]( https://github.com/pheromone/FirstWeChatSmall )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/FirstWeChatSmall?style=social&label=Stars)](https://github.com/pheromone/FirstWeChatSmall)    <br/>
+   [ 微信小程序 在component中绘制canvas并且生成图片 ](    https://github.com/pheromone/mobile-learn/tree/master/mini-canvas )    <br/>
+
 # iOS 🚋
    [ 唐巧的博客 ]( https://blog.devtang.com/ )    <br/>
    [iOS-面试题集 ]( https://hit-alibaba.github.io/interview/ )    <br/>
