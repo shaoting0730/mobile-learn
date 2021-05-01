@@ -1,0 +1,16 @@
+<!--index.wxml-->
+<view>
+  <!-- 背景canvas -->
+  <pz_canvas />
+  <!-- 实际内容 -->
+  <view style="position:absolute;left:0;top:0;">
+    <view wx:for="{{myData}}" style="height:200rpx" wx:key="index" bindtap="itemOnclick" data-id="{{item.id}}">
+      <view>
+        <text>{{item.title}}</text>
+      </view>
+      <view>
+        <text>{{item.content}}</text>
+      </view>
+    </view>
+  </view>
+</view>

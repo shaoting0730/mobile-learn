@@ -1,0 +1,8 @@
+<view class="outView">
+  <canvas
+      style="width:100%;height:100%"
+      canvas-id="myCanvas"
+      wx:if="{{!radarImg}}"
+   ></canvas>
+   <image wx:else style="width:100%;height:100%" src="{{radarImg}}" />
+</view>

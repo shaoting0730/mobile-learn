@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "pz_canvas":"/pages/component/pz_canvas/pz_canvas"
+  }
+}
