@@ -1,0 +1,32 @@
+.detail-page {
+  width: 100%;
+  height: 100%;
+  background-color: pink;
+  min-height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.top-view{
+  background-color: pink;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+.top-view .top-view-txt{
+  display: block;
+  color: white;
+}
+.detail-page .swiper{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  padding-bottom: 30%;
+}
+.detail-page .swiper .swiper-item{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

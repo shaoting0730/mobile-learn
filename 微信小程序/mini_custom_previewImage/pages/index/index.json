@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "pz_previewImage":"/pages/components/pz_previewImage/pz_previewImage"
+  }
+}

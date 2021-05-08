@@ -1,0 +1,7 @@
+<view>
+  <pz_previewImage imgData="{{imgData}}"  current="{{current}}"  show="{{show}}" ></pz_previewImage>
+    <!-- 图片集 -->
+    <view wx:for="{{imgData}}" wx:key="index">
+       <image src="/images/{{item}}" bindtap="imgOnlick" data-img="{{item}}" data-current="{{index}}"></image>
+   </view>
+</view>

@@ -1,0 +1,24 @@
+
+<!-- 放大界面 -->
+<page-container show="{{show}}" round="false" overlay="true" duration="300" position="center">
+  <!-- 顶部信息 -->
+  <view class="top-view">
+      <text class="top-view-txt">自定义图片缩放</text>
+  </view>
+  <view class="top-view">
+      <text class="top-view-txt">{{current+1}}/3</text>
+  </view>
+
+  <!-- 放大图片 -->
+  <view class="detail-page" bindtap="exit">
+    <swiper class="swiper" current="{{current}}" bindchange="bindchange">
+      <swiper-item wx:for="{{imgData}}" wx:key="index" class="swiper-item">
+        <view class="img" catchtouchstart="touchstartCallback" catchtouchmove="touchmoveCallback"
+          catchtouchend="touchendCallback">
+          <image style="transform:translate({{stv.offsetX}}px, {{stv.offsetY}}px) scale({{stv.scale}});"
+            src="/images/{{item}}"></image>
+        </view>
+      </swiper-item>
+    </swiper>
+  </view>
+</page-container>
