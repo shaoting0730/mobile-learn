@@ -82,6 +82,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ 微信小程序-使用事件收发:监听发送事件传值 ](   https://github.com/pheromone/mobile-learn/tree/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/mini_event  )    <br/>
 
 # iOS 🚋
+   [ iOS-Weekly ]( https://github.com/SwiftOldDriver/iOS-Weekly )    <br/>
    [ 唐巧的博客 ]( https://blog.devtang.com/ )    <br/>
    [iOS-面试题集 ]( https://hit-alibaba.github.io/interview/ )    <br/>
    [iOS-面试题集 ]( https://www.jianshu.com/p/25324d04797d )    <br/>
