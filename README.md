@@ -50,6 +50,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ 坦克大战小游戏：开发中借鉴了其中的手柄 ](   https://github.com/bladeofgod/tank_combat )    <br/>
    [ MQTT X 桌面客户端 ](   https://mqttx.app/zh )    <br/>
    [ flame中文网 ](   https://www.flame-cn.com/ )    <br/>
+   [ 迁移Flutter项目到空安全的血泪史——有血、有泪、有💩 ](   http://www.debuggerx.com/2021/03/07/migrate-flutter-project-to-null-safety/#%E5%96%84%E7%94%A8-IDE-%E6%8F%90%E7%A4%BA%E5%8A%9F%E8%83%BD%E5%8F%8A%E8%87%AA%E5%8A%A8%E4%BF%AE%E6%AD%A3%E5%8A%9F%E8%83%BD-%E9%80%90%E4%B8%AA%E4%BF%AE%E5%A4%8D%E6%89%80%E6%9C%89%E9%97%AE%E9%A2%98 )    <br/>
    [ Flutter应用如何调试--DevTools介绍(上) ](   https://www.jianshu.com/p/7d8e5e0679f7 )    <br/>
    [ Flutter 学习历程demo ]( https://github.com/pheromone/Flutter_learn_demo )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/Flutter_learn_demo.svg?style=social&label=Stars)](https://github.com/pheromone/Flutter_learn_demo) <br/>
    [ 电商项目实战 ]( https://github.com/pheromone/flutter_shop ) [![GitHub stars](https://img.shields.io/github/stars/pheromone/flutter_shop.svg?style=social&label=Stars)](https://github.com/pheromone/flutter_shop)   <br/>
