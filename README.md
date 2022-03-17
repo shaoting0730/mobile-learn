@@ -10,6 +10,7 @@
    [ Dark2 中文文档 ]( https://www.kancloud.cn/marswill/dark2_document )    <br/>
    [ Flutter中文书 ]( https://book.flutterchina.club/ )    <br/>
    [ 空安全 ](https://dart.cn/null-safety )    <br/>
+   [ 空安全1 ](https://liujunmin.com/flutter/null_safety.html )    <br/>
    [ Dart VM 简介 ]( https://annatarhe.github.io/2019/01/31/introduction-to-dart-vm.html )    <br/>
    [ 一个很棒的Flutter学习资源:由crazycodeboy提供 ](  https://github.com/crazycodeboy/awesome-flutter-cn#%E7%BB%84%E4%BB%B6  )    <br/>
    [ Flutter 核心技术与实战 ](    https://www.kancloud.cn/alex_wsc/flutter_demo/1559549 )    <br/>
