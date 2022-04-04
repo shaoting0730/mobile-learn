@@ -33,6 +33,7 @@
    [ Flutter应用如何调试--DevTools介绍 ]( https://www.jianshu.com/p/7d8e5e0679f7 )    <br/>
    [ Flutter应用如何调试--DevTools介绍-ducafecat猫哥 ]( https://mp.weixin.qq.com/s/cehyz8-Qp-RFeGyqYRk0zw )    <br/>
    [ 恋猫月亮的简书 ]( https://www.jianshu.com/u/6e613846e1ea )    <br/>
+   [ B站-王叔不秃 ]( https://space.bilibili.com/589533168 )    <br/>
    [[AliFlutter 系列直播&PDF] ]( https://github.com/pheromone/mobile-learn/blob/master/Flutter/AliFlutter%E7%9B%B4%E6%92%AD.md)    <br/>
    [[闲鱼研发框架应用和探索]PPT ]( https://files.alicdn.com/tpsservice/2a6760dd0ffb62678d0bde1e76d0b1f8.pdf )    <br/>
    [ Flutter 闲鱼最佳实践直播 ](  
