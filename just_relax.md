@@ -8,5 +8,6 @@
 ###     [ 全历史 ]( https://www.allhistory.com )    <br/>
 ###     [ 逗比拯救世界 ]( http://www.dbbqb.com )    <br/>
 ###     [ 此人不存在 ]( https://thispersondoesnotexist.com/ )    <br/>
+###     [ 网页小游戏 ]( https://xingye.me/game/index.php )    <br/>
 
 
