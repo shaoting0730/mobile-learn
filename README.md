@@ -135,6 +135,6 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
 
  # 杂类 🚢
    [ Socket ]( https://github.com/pheromone/mobile-learn/blob/master/Socket.md )    <br/>
-
+   [ public-apis ]( https://github.com/public-apis/public-apis )    <br/>
 
 
