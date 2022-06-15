@@ -30,6 +30,7 @@
    [ Flutter 闲鱼技术-语雀 ](  https://www.yuque.com/xytech/flutter )    <br/>
    [ Flutter 闲鱼技术-云栖 ](  https://yq.aliyun.com/users/rtcqgnmjifzda )    <br/>
    [ 猫哥-wiki ]( https://wiki.ducafecat.tech/  )    <br/>
+   [ jimi-深入浅出组件篇 ]( https://www.liujunmin.com/categories/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E7%BB%84%E4%BB%B6%E7%AF%87/  )    <br/>
    [ Flutter 闲鱼最佳实践PDF ]( http://c.tb.cn/I3.ZZpRl )    <br/>
    [ Flutter应用如何调试--DevTools介绍 ]( https://www.jianshu.com/p/7d8e5e0679f7 )    <br/>
    [ Flutter应用如何调试--DevTools介绍-ducafecat猫哥 ]( https://mp.weixin.qq.com/s/cehyz8-Qp-RFeGyqYRk0zw )    <br/>
