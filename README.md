@@ -143,5 +143,6 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ TCP/IP详解 ]( http://www.52im.net/topic-tcpipvol1.html )    <br/>
    [ Socket ]( https://github.com/pheromone/mobile-learn/blob/master/Socket.md )    <br/>
    [ public-apis ]( https://github.com/public-apis/public-apis )    <br/>
+   [ 可持续集成相关 ]( https://github.com/pheromone/mobile-learn/blob/master/%E5%8F%AF%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90%E7%9B%B8%E5%85%B3%E7%AF%87.md )    <br/>
 
 
