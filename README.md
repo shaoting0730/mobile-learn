@@ -37,6 +37,7 @@
    [ Flutter应用如何调试--DevTools介绍-ducafecat猫哥 ]( https://mp.weixin.qq.com/s/cehyz8-Qp-RFeGyqYRk0zw )    <br/>
    [ 恋猫月亮的简书 ]( https://www.jianshu.com/u/6e613846e1ea )    <br/>
    [ B站-王叔不秃 ]( https://space.bilibili.com/589533168 )    <br/>
+   [ 掘金-张风捷特烈 ]( https://juejin.cn/user/149189281194766/columns)    <br/>
    [ flutter 开发package 发布到pub.dev ]( https://blog.csdn.net/ceoxiang/article/details/124799193 )    <br/>
    [  GoogleFlutter团队XiaoYu:Flutter-Performance-Profiling-and-Theory ]( https://files.flutter-io.cn/events/gdd2018/Profiling_your_Flutter_Apps.pdf  )    <br/>
    [[AliFlutter 系列直播&PDF] ]( https://github.com/pheromone/mobile-learn/blob/master/Flutter/AliFlutter%E7%9B%B4%E6%92%AD.md)    <br/>
