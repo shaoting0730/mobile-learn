@@ -140,6 +140,8 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ iOS-touchID-demo ]( https://github.com/pheromone/iOS-touchID-demo )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/iOS-touchID-demo?style=social&label=Stars)](https://github.com/pheromone/iOS-touchID-demo)  <br/>
    [ iOS-Scoket入门 ]( https://github.com/pheromone/iOS-Scoket- )   [![GitHub stars](https://img.shields.io/github/stars/pheromone/iOS-Scoket-?style=social&label=Stars)](https://github.com/pheromone/iOS-Scoket-)   <br/>
    [ JavaScriptCore.framework的简单使用--JS与OC的交互 ]( https://github.com/pheromone/JavaScriptCore_demo ) [![GitHub stars](https://img.shields.io/github/stars/pheromone/JavaScriptCore_demo?style=social&label=Stars)](https://github.com/pheromone/JavaScriptCore_demo)    <br/>
+   [ iOS系统消息推送机制的实现流程 ]( https://community.jiguang.cn/article/465264 )    <br/>
+   [ iOS推送原理详解 ]( https://juejin.cn/post/7074849751472029703 )    <br/>
 
 
  # Android 🚓	
