@@ -9,7 +9,7 @@
    [ What's Flutter??? ]( https://zhuanlan.zhihu.com/p/52666477 )    <br/>
    [ Flutter中国开源项目 ]( https://github.com/flutterchina )    <br/>
    [ gskinnerTeam：flutter-folio ]( https://github.com/gskinnerTeam/flutter-folio )    <br/>
-   [ gskinnerTeam：flutter-wonderous-app ](    https://github.com/gskinnerTeam/flutter-wonderous-app )    <br/>
+   [ gskinnerTeam：flutter-wonderous-app ](    https://github.com/gskinnerTeam/flutter-wonderous-app ) [ 学习记录 ]( https://github.com/pheromone/flutter-wonderous-app/blob/master/%E5%AD%A6%E4%B9%A0%E4%B8%80%E4%B8%8B/%E5%AD%A6%E4%B9%A0%E4%B8%80%E4%B8%8B.md )     <br/>
    [ 闲鱼技术：怎样写好Flutter代码 ](https://mp.weixin.qq.com/s/Xsp4pdxqdyGovXQmXcKk7A )    <br/>
    [ 谷歌中国B站-Flutter Engage 主题演讲 ]( https://www.bilibili.com/medialist/play/ml1195151358/BV125411N7AU )    <br/>
    [ 谷歌中国-微信公众号 ]( https://mp.weixin.qq.com/s/lc58-tWSJlkRvT6veL17KQ )    <br/>
