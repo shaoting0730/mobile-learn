@@ -54,7 +54,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ Flutter 字节跳动直播 ](    https://mp.weixin.qq.com/s/UrWxYgchb-F3AqqzGrYWew  )    <br/>
    [ 如何缩减接近 50% 的 Flutter 包体积 ]( https://mp.weixin.qq.com/s/Ls3cDcqjlyOX80PXUO0wRw  )    <br/>
    [ 京东:Flutter扩展到类小程序平台 ]( https://github.com/areslabs/flutter_mp/ )    <br/>
-   [ Flutter开发插件并发布到pub ]( https://www.jianshu.com/p/5c3721efc6f9 )    <br/>
+   [ Flutter开发插件并发布到pub ]( https://blog.csdn.net/ai_pple/article/details/108535418 )    <br/>
    [ Flutter开发中启用Dart DevTools 连接App进行调试 ]( https://blog.csdn.net/u013560890/article/details/97144248 )    <br/>
    [ 定位Flutter内存问题很难么？ ]( https://mp.weixin.qq.com/s/g5MJSvlCH3GcP0DLaRcRiQ )    <br/>
    [ Flutter内存泄漏解决方案 ]( https://mp.weixin.qq.com/s/ck9CAkUGvmBbtE132vmOsw )    <br/>
