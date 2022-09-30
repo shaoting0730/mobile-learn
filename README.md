@@ -44,7 +44,7 @@
    [ 恋猫月亮的简书 ]( https://www.jianshu.com/u/6e613846e1ea )    <br/>
    [ B站-王叔不秃 ]( https://space.bilibili.com/589533168 )    <br/>
    [ 掘金-张风捷特烈 ]( https://juejin.cn/user/149189281194766/columns)    <br/>
-   [ flutter 开发package 发布到pub.dev ]( https://www.jianshu.com/p/47b76c7c5bdf )    <br/>
+   [ flutter 开发package 发布到pub.dev ]( https://zhoushaoting.com/2022/09/29/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%AD%A6%E4%B9%A0/Flutter~%E5%8F%91%E5%B8%83package%E5%88%B0pub.dev%E5%9B%BE%E6%96%87%E8%AF%A6%E8%A7%A3/ )    <br/>
    [  GoogleFlutter团队XiaoYu:Flutter-Performance-Profiling-and-Theory ]( https://files.flutter-io.cn/events/gdd2018/Profiling_your_Flutter_Apps.pdf  )    <br/>
    [[AliFlutter 系列直播&PDF] ]( https://github.com/pheromone/mobile-learn/blob/master/Flutter/AliFlutter%E7%9B%B4%E6%92%AD.md)    <br/>
    [[闲鱼研发框架应用和探索]PPT ]( https://files.alicdn.com/tpsservice/2a6760dd0ffb62678d0bde1e76d0b1f8.pdf )    <br/>
