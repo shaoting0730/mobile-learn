@@ -27,6 +27,8 @@
    [ 零、GSY历程·GitBook ]( https://guoshuyu.cn/home/wx/Flutter-0.html )    <br/>
    [ Vadaski大佬的简书 ]( https://www.jianshu.com/u/f0cd06a06592 )    <br/>
    [ 安卓小哥的掘金 ]( https://juejin.cn/user/1591748567765480/posts )    <br/>
+   [ 恋猫de小郭的掘金 ]( https://juejin.cn/user/817692379985752 )    <br/>
+   [ 安卓小哥的掘金 ]( https://juejin.cn/user/1591748567765480/posts )    <br/>
    [ 深入理解Flutter引擎架构--Gityuan ]( https://xiaozhuanlan.com/gityuan_flutter )    <br/>
    [ 淘系技术 ]( https://blog.csdn.net/Taobaojishu )    <br/>
    [ 反射 ]( https://github.com/pheromone/mobile-learn/blob/master/%E5%8F%8D%E5%B0%84.md )    <br/>
