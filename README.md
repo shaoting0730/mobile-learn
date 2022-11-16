@@ -81,6 +81,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
 
 # React Native🚈
    [ React Native学习历程 ]( https://github.com/pheromone/React-Native-study )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/React-Native-study.svg?style=social&label=Stars)](https://github.com/pheromone/React-Native-study)  <br/>
+   [ 《React Native 精解与实战》配套源码 ]( https://github.com/ParryQiu/ReactNative-Book-Demo )    <br/>
    [ promise解析  ]( https://github.com/pheromone/mobile-learn/blob/master/React%20Native/promise%E8%A7%A3%E6%9E%90.md )    <br/>
    [ 京东:React Native代码转换成微信小程序代码的转换引擎工具  ]( https://github.com/areslabs/alita )    <br/>
    [ 关于iOS和React Native的交互 ]( https://github.com/pheromone/IOS-native-and-React-native-interaction )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/IOS-native-and-React-native-interaction.svg?style=social&label=Stars)](https://github.com/pheromone/IOS-native-and-React-native-interaction)    <br/>
