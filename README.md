@@ -82,6 +82,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
 
 # React Native🚈
    [ React Native学习历程 ]( https://github.com/pheromone/React-Native-study )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/React-Native-study.svg?style=social&label=Stars)](https://github.com/pheromone/React-Native-study)  <br/>
+   [ React Native之原理浅析 ](  http://blog.poetries.top/2019/10/02/rn-yuanli/ )    <br/>
    [ 《React Native 精解与实战》配套源码 ]( https://github.com/ParryQiu/ReactNative-Book-Demo )    <br/>
    [ ReactNative与iOS原生通信原理解析-初始化 ]( https://blog.gaogangsever.cn/react/ReactNative%E4%B8%8EiOS%E5%8E%9F%E7%94%9F%E9%80%9A%E4%BF%A1%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90-%E5%88%9D%E5%A7%8B%E5%8C%96.html#%E7%BC%98%E8%B5%B7 )    <br/>
    [ promise解析  ]( https://github.com/pheromone/mobile-learn/blob/master/React%20Native/promise%E8%A7%A3%E6%9E%90.md )    <br/>
