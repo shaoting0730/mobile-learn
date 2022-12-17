@@ -1,19 +1,19 @@
 import Taro from '@tarojs/taro';
 // import apiConfig from './service_url'
 
-//网络请求拦截器
-const interceptor = function (chain) {
-  const requestParams = chain.requestParams
-  // const { method, data, url } = requestParams
-  let token = Taro.getStorageSync('TOKEN')//拿到本地缓存中存的token
-  requestParams.header = {
-    ...requestParams.header,
-    Authorization: 'Bearer ' + token //将token添加到头部
-  }
-  return chain.proceed(requestParams).then(res => { return res })
-}
-
-Taro.addInterceptor(interceptor)
+// //网络请求拦截器
+// const interceptor = function (chain) {
+//   const requestParams = chain.requestParams
+//   // const { method, data, url } = requestParams
+//   let token = Taro.getStorageSync('TOKEN')//拿到本地缓存中存的token
+//   requestParams.header = {
+//     ...requestParams.header,
+//     Authorization: 'Bearer ' + token //将token添加到头部
+//   }
+//   return chain.proceed(requestParams).then(res => { return res })
+// }
+//
+// Taro.addInterceptor(interceptor)
 
 const request = async (method, url, params) => {
   //由于post请求时习惯性query参数使用params，body参数使用data，而taro只有data参数，使用contentType作为区分，因此此处需要做一个判断
