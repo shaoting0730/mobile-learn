@@ -1,8 +1,8 @@
 import { Component, PropsWithChildren } from 'react'
 import { View, Button, Text,Input } from '@tarojs/components'
-import Taro from "@tarojs/taro";
 import { observer, inject } from 'mobx-react'
 import './index.less'
+import ServiceProvider from "../../service/service_provider";
 
 @inject('store')
 @observer
@@ -23,11 +23,15 @@ class Index extends Component<PropsWithChildren> {
     // request('https://api.artic.edu/api/v1/artworks','GET',{}).then((e) => {
     //   print(e);
     // });
-    Taro.request({
-      url:'https://api.artic.edu/api/v1/artworks',
-    }).then((e) =>{
+    ServiceProvider.login().then((e) =>{
       console.log(e);
     });
+    // Taro.request({
+    //   method:'GET',
+    //   url:'https://api.artic.edu/api/v1/artworks',
+    // }).then((e) =>{
+    //   console.log(e);
+    // });
   }
 
 
