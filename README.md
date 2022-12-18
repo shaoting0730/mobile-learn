@@ -114,6 +114,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ 微信小程序-在component中绘制canvas并且生成图片 ](    https://github.com/pheromone/mobile-learn/tree/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/mini-canvas )    <br/>
    [ 微信小程序-自定义previewImage ](   https://github.com/pheromone/mobile-learn/tree/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/mini_custom_previewImage  )    <br/>
    [ 微信小程序-使用事件收发:监听发送事件传值 ](   https://github.com/pheromone/mobile-learn/tree/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/mini_event  )    <br/>
+   [taro]( https://github.com/pheromone/mobile-learn/tree/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/taro )    <br/>
    [flutter写小程序]( https://github.com/mpflutter/mpflutter )    <br/>
 
    
