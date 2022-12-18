@@ -10,7 +10,8 @@ class Index extends Component<PropsWithChildren> {
 
 
   state = {
-    loginTag: 0, // 0登录  1注册
+    loginTag:0, // 0登录  1注册
+    loginMode:0, // 0验证码  1密码
     loginCodeNum: 60,
     registerCodeNum: 60,
   }
@@ -57,6 +58,13 @@ class Index extends Component<PropsWithChildren> {
     }
   }
 
+  /// 切换登录模式
+  changeLoginMode(index){
+    this.setState({
+      loginMode:index
+    })
+  }
+
 
   // 切换登录/注册
   changeUIMode(index) {
@@ -79,7 +87,7 @@ class Index extends Component<PropsWithChildren> {
 
 
   render() {
-    const {loginTag, loginCodeNum, registerCodeNum} = this.state;
+    const {loginTag, loginCodeNum,loginMode, registerCodeNum} = this.state;
     return (
       <View className='login_bg'>
         {/* 登录 注册 按钮 */}
@@ -98,18 +106,39 @@ class Index extends Component<PropsWithChildren> {
               <View className='input_name'>
                 <Input placeholder='请输入手机号'></Input>
               </View>
-              <View className='input_psw'>
-                <Input placeholder='请输入密码'></Input>
-                <Text onClick={this.sendLoginCodeAction.bind(this)} className='send_code_txt'>{loginCodeNum == 60 ? "发送验证码" : loginCodeNum}</Text>
-              </View>
+              {
+                loginMode == 0 ?
+                  <View className='input_code'>
+                    <Input placeholder='请输入验证码'></Input>
+                    <Text onClick={this.sendLoginCodeAction.bind(this)} className='send_code_txt'>{loginCodeNum == 60 ? "发送验证码" : loginCodeNum}</Text>
+                  </View>
+                  :
+                  <View className='input_psw'>
+                    <Input placeholder='输入密码'></Input>
+                  </View>
+              }
+
+              {
+                loginMode == 0 ? <View className='login_mode'>
+                  <Text onClick={()=> this.changeLoginMode(1)}>
+                    验证码登录
+                  </Text>
+                </View> : <View className='login_mode'>
+                  <Text onClick={()=> this.changeLoginMode(0)}>
+                    密码登录
+                  </Text>
+                </View>
+              }
+
+
             </View>
             :
             <View className='login_input_view'>
               <View className='input_name'>
                 <Input placeholder='请输入手机号'></Input>
               </View>
-              <View className='input_psw'>
-                <Input placeholder='请输入密码'></Input>
+              <View className='input_code'>
+                <Input placeholder='请输入验证码'></Input>
                 <Text onClick={this.sendRegisterAction.bind(this)} className='send_code_txt'>
                   {registerCodeNum == 60 ? "发送验证码" : registerCodeNum}
                 </Text>
