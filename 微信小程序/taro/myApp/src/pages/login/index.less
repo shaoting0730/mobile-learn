@@ -65,10 +65,46 @@
       color:white;
     }
   }
-
   .login_input_view{
-    width: 100%;
-    height: 100%;
-    color: #000;
+    margin: auto;
+    width: 80%;
+    .input_name{
+      margin-top: 10PX;
+      height: 50PX;
+      background: cornsilk;
+      border-radius:10PX;
+      display: flex;
+      align-items: center;
+    }
+    .input_psw{
+      margin-top: 10PX;
+      height: 50PX;
+      background: cornsilk;
+      border-radius:10PX;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      .send_code_txt{
+        margin-right: 10PX;
+        font-size: 15PX;
+        color:red;
+      }
+    }
   }
+
+  .login_bottom_view{
+    position: fixed;
+    bottom: 10%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    .login_bottom_btn{
+      width: 200PX;
+    }
+  }
+
+
+
+
+
 }
