@@ -1,8 +1,9 @@
 import {Component, PropsWithChildren} from 'react'
 import {View, Button, Text, Input} from '@tarojs/components'
 import {observer, inject} from 'mobx-react'
+import Taro from '@tarojs/taro'
+import CONSTANS from  '../../utils/constans'
 import './index.less'
-import ServiceProvider from "../../service/service_provider";
 
 @inject('store')
 @observer
@@ -24,8 +25,15 @@ class Index extends Component<PropsWithChildren> {
     registerPswAgain:'', // 再一次密码
   }
 
-  componentDidMount(): void {
-
+  componentDidMount() {
+    var token = Taro.getStorageSync(CONSTANS.token);
+    if(token){
+      Taro.redirectTo({
+        url:'/pages/index/index'
+      });
+    }else{
+      return;
+    }
   }
 
   /// 发送登录验证码
@@ -109,16 +117,59 @@ class Index extends Component<PropsWithChildren> {
   loginAction() {
     const {loginTel,loginCode,loginPsw} = this.state;
     console.log(loginTel,loginCode,loginPsw);
+    // 假装开始注册 登录请求
+    if(loginTel.length < 11){
+      Taro.showToast({title: '请输入合法手机号',icon:'error'});
+      return;
+    }
 
-    ServiceProvider.login().then((e) => {
-      console.log(e);
-    });
+
+    if(loginCode.length < 6){
+      Taro.showToast({title: '请输入6位验证码',icon:'error'});
+      return;
+    }
+
+    // 假装发起登录请求
+    Taro.showLoading({title:'登录中'});
+    setTimeout(function () {
+      Taro.setStorageSync(CONSTANS.token,'token');
+      Taro.hideLoading();
+      Taro.redirectTo({
+        url:'/pages/index/index'
+      });
+    }, 2000)
+
   }
 
   // 注册按钮点击
   registerAction() {
     const {registerTel,registerCode,registerPsw,registerPswAgain} = this.state;
-    console.log(registerTel,registerCode,registerPsw,registerPswAgain);
+    if(registerTel.length < 11){
+      alert('请输入合法手机号');
+    }
+    //  ... 假装已经发了验证码
+    if(registerCode.length < 6){
+      Taro.showToast({title: '请输入6位验证码',icon:'error'});
+      return;
+    }
+    if(registerPsw.length < 6 || registerPswAgain.length < 6){
+      Taro.showToast({title: '密码至少需要6位',icon:'error'});
+      return;
+    }
+    if(registerPsw != registerPswAgain){
+      Taro.showToast({title: '两次密码不一样',icon:'error'});
+      return;
+    }
+
+    // 开始注册 并登录
+    Taro.showLoading({title:'登录中'});
+    setTimeout(function () {
+      Taro.setStorageSync(CONSTANS.token,'token');
+      Taro.hideLoading();
+      Taro.redirectTo({
+        url:'/pages/index/index'
+      });
+    }, 2000)
   }
 
 
