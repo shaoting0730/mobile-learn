@@ -29,7 +29,7 @@ class Index extends Component<PropsWithChildren> {
     var token = Taro.getStorageSync(CONSTANS.token);
     if(token){
       Taro.redirectTo({
-        url:'/pages/index/index'
+        url:'/pages/home/index'
       });
     }else{
       return;
@@ -135,7 +135,7 @@ class Index extends Component<PropsWithChildren> {
       Taro.setStorageSync(CONSTANS.token,'token');
       Taro.hideLoading();
       Taro.redirectTo({
-        url:'/pages/index/index'
+        url:'/pages/home/index'
       });
     }, 2000)
 
@@ -167,7 +167,7 @@ class Index extends Component<PropsWithChildren> {
       Taro.setStorageSync(CONSTANS.token,'token');
       Taro.hideLoading();
       Taro.redirectTo({
-        url:'/pages/index/index'
+        url:'/pages/home/index'
       });
     }, 2000)
   }

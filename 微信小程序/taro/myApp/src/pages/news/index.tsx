@@ -1,7 +1,8 @@
 import { Component, PropsWithChildren } from 'react'
-import {View, Button, Text, Input} from '@tarojs/components'
+import {View,Text} from '@tarojs/components'
 import { observer, inject } from 'mobx-react'
 import './index.less';
+
 @inject('store')
 @observer
 class Index extends Component<PropsWithChildren> {
@@ -10,9 +11,8 @@ class Index extends Component<PropsWithChildren> {
   }
   render () {
     return (
-      <View className='login_bg'>
-
-
+      <View>
+        <Text>新闻</Text>
       </View>
     )
   }
