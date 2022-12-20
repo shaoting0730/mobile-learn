@@ -27,6 +27,9 @@ class Index extends Component<PropsWithChildren> {
 
   componentDidMount() {
     var token = Taro.getStorageSync(CONSTANS.token);
+    Taro.switchTab({
+      url:'/pages/home/index'
+    });
     if(token){
       Taro.switchTab({
         url:'/pages/home/index'
