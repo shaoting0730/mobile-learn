@@ -28,7 +28,7 @@ class Index extends Component<PropsWithChildren> {
   componentDidMount() {
     var token = Taro.getStorageSync(CONSTANS.token);
     if(token){
-      Taro.redirectTo({
+      Taro.switchTab({
         url:'/pages/home/index'
       });
     }else{
@@ -134,7 +134,7 @@ class Index extends Component<PropsWithChildren> {
     setTimeout(function () {
       Taro.setStorageSync(CONSTANS.token,'token');
       Taro.hideLoading();
-      Taro.redirectTo({
+      Taro.switchTab({
         url:'/pages/home/index'
       });
     }, 2000)
@@ -166,7 +166,7 @@ class Index extends Component<PropsWithChildren> {
     setTimeout(function () {
       Taro.setStorageSync(CONSTANS.token,'token');
       Taro.hideLoading();
-      Taro.redirectTo({
+      Taro.switchTab({
         url:'/pages/home/index'
       });
     }, 2000)
