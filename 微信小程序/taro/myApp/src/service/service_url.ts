@@ -1,15 +1,14 @@
 
 const api = {
   // 首页
-  weatherUrl:'https://xiaoapi.cn/API/zs_tq.php?type=cytq&msg=杭州9E&num=20&n=1', // 天气接口
-  starUrl:'https://xiaoapi.cn/API/xzys.php?msg=%E7%99%BD%E7%BE%8A%E5%BA%A7',  //星座接口  文字版
-  historyUrl:'https://xiaoapi.cn/API/lssdjt.php?type=15',   // 历史上的今天 文字版
-  movieInfoUrl:'https://xiaoapi.cn/API/zs_dybd.php?type=douban&n=1&num=10',  // 电影信息
+  COVID19Url:'https://v.api.aa1.cn/api/api-yq/index.php?city=北京',  // 疫情信息
+  starUrl:'https://v.api.aa1.cn/api/xingzuo/?msg=处女',   // 星座运势
+  historyUrl:'https://zj.v.api.aa1.cn/api/bk/?num=5&type=json',  // 历史的今天
   // 新闻
   newsListUrl:'https://v.api.aa1.cn/api/api-tplist/go.php/api/picture/index?page=1',   // 新闻接口
   // 我的
-  saohuaUrl:'https://v.api.aa1.cn/api/api-saohua/index.php?type=json',  // 骚话接口
-  starImgUrl: 'https://xiaoapi.cn/API/xzys_pic.php?msg=',  // 星座 图片版
+  QQInfo:'https://v.api.aa1.cn/api/qqjson/index.php?qq=510738319',  // 获取QQ信息
+  avatarUrl:'https://v.api.aa1.cn/api/api-tx/index.php?wpon=aosijur75fi5huyty5f'  // 随机头像
 }
 
 export default api;
