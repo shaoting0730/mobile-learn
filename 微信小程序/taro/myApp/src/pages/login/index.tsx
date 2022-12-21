@@ -277,8 +277,6 @@ class Index extends Component<PropsWithChildren> {
                     </Text>
                   </View>
                 }
-
-
               </View>
               :
               <View className='login_input_view'>

@@ -12,7 +12,13 @@ function weatherInfo(address) {
   return ServiceMethod.get(url, {});
 }
 
+function starInfo(star) {
+  let url  = ServiceUrl.starUrl + '?msg=' + star;
+  return ServiceMethod.get(url, {});
+}
+
 export default {
   weatherInfo,
   COVID19Info,
+  starInfo,
 }

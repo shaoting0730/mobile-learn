@@ -2,7 +2,7 @@
 const api = {
   // 首页
   COVID19Url:'https://v.api.aa1.cn/api/api-yq/index.php',  // 疫情信息
-  starUrl:'https://v.api.aa1.cn/api/xingzuo/?msg=处女',   // 星座运势
+  starUrl:'https://v.api.aa1.cn/api/xingzuo',   // 星座运势
   historyUrl:'https://zj.v.api.aa1.cn/api/bk/?num=5&type=json',  // 历史的今天
   weatherUrl:'https://v.api.aa1.cn/api/api-tianqi-3/index.php',
   // 新闻
