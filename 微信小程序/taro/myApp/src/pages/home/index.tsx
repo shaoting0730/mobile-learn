@@ -26,7 +26,7 @@ class Index extends Component<PropsWithChildren> {
 
   /// swiper切换输入
   swiperChange(e) {
-    // console.log(e);
+    console.log(e);
   }
 
   // 查询疫情
@@ -124,7 +124,8 @@ class Index extends Component<PropsWithChildren> {
       <View>
         {/*轮播*/}
         <Swiper indicatorColor='gray' indicatorActiveColor='red' indicatorDots previousMargin='25px' nextMargin='25px'
-                onChange={(e) => this.swiperChange(e)} className='swiper-style' autoplay>
+          onChange={(e) => this.swiperChange(e)} className='swiper-style' autoplay
+        >
           <SwiperItem>
             <Image mode='aspectFit' src={require('../../assets/swiper1.jpeg')}></Image>
           </SwiperItem>
@@ -142,7 +143,8 @@ class Index extends Component<PropsWithChildren> {
         <View className='COVID19'>
           <View className='COVID19_input'>
             <Input className='input' onInput={(e) => this.covid19AddressInput(e.detail.value)}
-                   placeholder='请输入要查询疫情的地方'></Input>
+              placeholder='请输入要查询疫情的地方'
+            ></Input>
             <Button className='search-btn' onClick={() => this.searchCOVID19()}>查询</Button>
           </View>
           <View>
@@ -165,7 +167,8 @@ class Index extends Component<PropsWithChildren> {
         <View className='weather'>
           <View className='weather_input'>
             <Input className='input' onInput={(e) => this.weatherAddressInput(e.detail.value)}
-                   placeholder='请输入要查询天气的地方'></Input>
+              placeholder='请输入要查询天气的地方'
+            ></Input>
             <Button className='search-btn' onClick={() => this.searchWeather()}>查询</Button>
           </View>
           <View>
@@ -195,7 +198,8 @@ class Index extends Component<PropsWithChildren> {
         <View className='star'>
           <View className='star_input'>
             <Input className='input' onInput={(e) => this.starInput(e.detail.value)}
-                   placeholder='请输入要查询的星座'></Input>
+              placeholder='请输入要查询的星座'
+            ></Input>
             <Button className='search-btn' onClick={() => this.searchStar()}>查询</Button>
           </View>
           <View>
@@ -204,43 +208,43 @@ class Index extends Component<PropsWithChildren> {
               Object.getOwnPropertyNames(starInfo).length > 0 ?
                 <View className='weather_info'>
                   <View>
-                    <Text style={{color:'red'}}>星座:</Text>
+                    <Text style={{color: 'red'}}>星座:</Text>
                     <Text>{starInfo['xz']}</Text>
                   </View>
                   <View>
-                    <Text style={{color:'red'}}>提示:</Text>
+                    <Text style={{color: 'red'}}>提示:</Text>
                     <Text>{starInfo['ts']}</Text>
                   </View>
                   <View>
-                    <Text style={{color:'red'}}>幸运颜色:</Text>
+                    <Text style={{color: 'red'}}>幸运颜色:</Text>
                     <Text>{starInfo['xyys']}</Text>
                   </View>
-                   <View>
-                     <Text style={{color:'red'}}>幸运数字:</Text>
-                     <Text>{starInfo['xysz']}</Text>
-                   </View>
                   <View>
-                    <Text  style={{color:'red'}}>贵人方位:</Text>
+                    <Text style={{color: 'red'}}>幸运数字:</Text>
+                    <Text>{starInfo['xysz']}</Text>
+                  </View>
+                  <View>
+                    <Text style={{color: 'red'}}>贵人方位:</Text>
                     <Text>{starInfo['grfw']}</Text>
                   </View>
                   <View>
-                    <Text  style={{color:'red'}}>贵人星座:</Text>
+                    <Text style={{color: 'red'}}>贵人星座:</Text>
                     <Text>{starInfo['grxz']}</Text>
                   </View>
                   <View>
-                    <Text  style={{color:'red'}}>事业运势:</Text>
+                    <Text style={{color: 'red'}}>事业运势:</Text>
                     <Text>{starInfo['syys']}</Text>
                   </View>
                   <View>
-                    <Text  style={{color:'red'}}>财富运势:</Text>
+                    <Text style={{color: 'red'}}>财富运势:</Text>
                     <Text>{starInfo['cfys']}</Text>
                   </View>
                   <View>
-                    <Text  style={{color:'red'}}>爱情运势:</Text>
+                    <Text style={{color: 'red'}}>爱情运势:</Text>
                     <Text> {starInfo['aqys']}</Text>
                   </View>
                   <View>
-                    <Text style={{color:'red'}}>整体运势 :{starInfo['ztys']}</Text>
+                    <Text style={{color: 'red'}}>整体运势 :{starInfo['ztys']}</Text>
                   </View>
                 </View> :
                 <Text style={{fontSize: '14PX', color: "red"}}>没有查到星座信息</Text>
