@@ -3,6 +3,7 @@ export default defineAppConfig({
     'pages/login/index',
     'pages/home/index',
     'pages/news/index',
+    'pages/news_details/index',
     'pages/mine/index',
   ],
   window: {

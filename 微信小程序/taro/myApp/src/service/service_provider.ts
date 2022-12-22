@@ -22,9 +22,16 @@ function qqInfo(qq) {
   return ServiceMethod.get(url, {});
 }
 
+function newInfo() {
+  let url  = ServiceUrl.newsListUrl;
+  return ServiceMethod.get(url, {});
+}
+
+
 export default {
   weatherInfo,
   COVID19Info,
   starInfo,
   qqInfo,
+  newInfo,
 }
