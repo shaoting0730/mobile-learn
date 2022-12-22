@@ -45,7 +45,7 @@ class Index extends Component<PropsWithChildren> {
   render () {
     const {qqInfo} = this.state;
     return (
-      <View>
+      <View className='mine-bg'>
       {/* 用户信息 */}
         <View className='user_info'>
           <Image className='avatar' src='https://v.api.aa1.cn/api/api-tx/index.php?wpon=aosijur75fi5huyty5f'></Image>

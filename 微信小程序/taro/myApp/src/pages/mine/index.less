@@ -1,54 +1,69 @@
-.user_info{
-  display: flex;
-  border: cadetblue 1PX solid;
-  .avatar{
-    width: 100PX;
-    height: 100PX;
-    border-radius: 50PX;
-    margin: 20PX;
-  }
-  .name_gender{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    .userName{
-      display: block;
-      font-size: 16PX;
-    }
-    .gender{
-      display: block;
-      font-size: 14PX;
-    }
-  }
-}
-.qq{
-  margin-top: 10PX;
+.mine-bg {
+  height: 100%;
+  width: 100%;
+  position: fixed;
   //background-color: crimson;
-  .qq_input{
+  .user_info {
     display: flex;
-    justify-content: space-between;
-    .input{
-      margin-left: 10PX;
-      font-size: 14PX;
-      width: 80%;
-      //background-color:yellow;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-    .search-btn{
+    border: cadetblue 1PX solid;
+
+    .avatar {
       width: 100PX;
-      height: 40PX;
+      height: 100PX;
+      border-radius: 50PX;
+      margin: 20PX;
+    }
+
+    .name_gender {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+
+      .userName {
+        display: block;
+        font-size: 16PX;
+      }
+
+      .gender {
+        display: block;
+        font-size: 14PX;
+      }
     }
   }
-  .qq_info{
-    margin-left: 20PX;
-    font-size: 15PX;
+
+  .qq {
+    margin-top: 10PX;
+    //background-color: crimson;
+    .qq_input {
+      display: flex;
+      justify-content: space-between;
+
+      .input {
+        margin-left: 10PX;
+        font-size: 14PX;
+        width: 80%;
+        //background-color:yellow;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .search-btn {
+        width: 100PX;
+        height: 40PX;
+      }
+    }
+
+    .qq_info {
+      margin-left: 20PX;
+      font-size: 15PX;
+    }
   }
-}
-.version{
-  display: flex;
-  margin-top: 90%;
-  justify-content: center;
-  align-items: center;
+
+  .version {
+    position: fixed;
+    bottom: 100PX;
+    text-align: center;
+    width: 100%;
+  }
 }
