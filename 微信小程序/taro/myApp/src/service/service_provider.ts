@@ -17,8 +17,14 @@ function starInfo(star) {
   return ServiceMethod.get(url, {});
 }
 
+function qqInfo(qq) {
+  let url  = ServiceUrl.QQInfo + '?qq=' + qq;
+  return ServiceMethod.get(url, {});
+}
+
 export default {
   weatherInfo,
   COVID19Info,
   starInfo,
+  qqInfo,
 }

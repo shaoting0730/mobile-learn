@@ -9,7 +9,11 @@ export default defineAppConfig({
     backgroundTextStyle: 'light',
     navigationBarBackgroundColor: '#fff',
     navigationBarTitleText: 'WeChat',
-    navigationBarTextStyle: 'black'
+    navigationBarTextStyle: 'black',
+    enablePullDownRefresh: true,
+    pullRefresh: true,
+    allowsBounceVertical: "YES",
+    onReachBottomDistance: 50,
   },
   tabBar: {
     "list":[

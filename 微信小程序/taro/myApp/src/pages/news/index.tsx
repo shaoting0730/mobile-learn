@@ -1,5 +1,5 @@
 import { Component, PropsWithChildren } from 'react'
-import {View,Text} from '@tarojs/components'
+import {Text,ScrollView} from '@tarojs/components'
 import { observer, inject } from 'mobx-react'
 import './index.less';
 
@@ -11,9 +11,11 @@ class Index extends Component<PropsWithChildren> {
   }
   render () {
     return (
-      <View>
+      <ScrollView
+        onScrollToLower={()=>{}}
+      >
         <Text>新闻</Text>
-      </View>
+      </ScrollView>
     )
   }
 }
