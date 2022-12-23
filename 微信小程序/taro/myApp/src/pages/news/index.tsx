@@ -33,7 +33,7 @@ class Index extends Component<PropsWithChildren> {
   onclickItem(e){
     let link = e['link'];
     Taro.navigateTo({
-      url: 'pages/news_details/index?link=' + JSON.stringify(link)
+      url: 'pages/news_details/index?link=' + link
     }).then(_  =>{});
   }
 
