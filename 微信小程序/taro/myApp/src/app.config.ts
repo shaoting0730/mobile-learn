@@ -9,12 +9,6 @@ export default defineAppConfig({
   window: {
     backgroundTextStyle: 'light',
     navigationBarBackgroundColor: '#fff',
-    navigationBarTitleText: 'WeChat',
-    navigationBarTextStyle: 'black',
-    enablePullDownRefresh: true,
-    pullRefresh: true,
-    allowsBounceVertical: "YES",
-    onReachBottomDistance: 50,
   },
   tabBar: {
     "list":[
