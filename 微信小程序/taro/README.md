@@ -1,8 +1,10 @@
 # taro_pro
 ### 版本相关
-![image](https://github.com/pheromone/mobile-learn/blob/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/taro/trao%E7%89%88%E6%9C%AC.jpg) <br/>
 ![image](https://github.com/pheromone/mobile-learn/blob/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/taro/%E4%BD%BF%E7%94%A8.jpg) <br/>
+![image](https://github.com/pheromone/mobile-learn/blob/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/taro/taro%E7%89%88%E6%9C%AC.jpg) <br/>
 ## 截图
+![image](https://github.com/pheromone/mobile-learn/blob/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/taro/login.jpg) <br/>
+![image](https://github.com/pheromone/mobile-learn/blob/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/taro/register.jpg) <br/>
 ![image](https://github.com/pheromone/mobile-learn/blob/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/taro/taro%E6%88%AA%E5%9B%BE1.jpg) <br/>
 ![image](https://github.com/pheromone/mobile-learn/blob/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/taro/taro%E6%88%AA%E5%9B%BE2.jpg) <br/>
 ![image](https://github.com/pheromone/mobile-learn/blob/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/taro/taro%E6%88%AA%E5%9B%BE3.jpg) <br/>
