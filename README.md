@@ -16,6 +16,7 @@
    [ 闲鱼技术：怎样写好Flutter代码 ](https://mp.weixin.qq.com/s/Xsp4pdxqdyGovXQmXcKk7A )    <br/>
    [ 谷歌中国B站-Flutter Engage 主题演讲 ]( https://www.bilibili.com/medialist/play/ml1195151358/BV125411N7AU )    <br/>
    [ 谷歌中国-微信公众号 ]( https://mp.weixin.qq.com/s/lc58-tWSJlkRvT6veL17KQ )    <br/>
+   [ Flutter社区-微信公众号 ](    https://mp.weixin.qq.com/s/DOUELDqCD5MlgGfW7bMpEw )    <br/>
    [ Dark2 中文文档 ]( https://www.kancloud.cn/marswill/dark2_document )    <br/>
    [ Flutter中文书 ]( https://book.flutterchina.club/ )    <br/>
    [ flutter-低代码flutterflow ]( https://flutterflow.io/ )    <br/>
