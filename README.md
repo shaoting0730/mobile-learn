@@ -6,7 +6,6 @@
    [ 电商项目实战 ]( https://github.com/pheromone/flutter_shop ) [![GitHub stars](https://img.shields.io/github/stars/pheromone/flutter_shop.svg?style=social&label=Stars)](https://github.com/pheromone/flutter_shop)   <br/>
    [ 项目实战练习 ]( https://github.com/pheromone/flutter_video_audio_news )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/flutter_video_audio_news.svg?style=social&label=Stars)](https://github.com/pheromone/flutter_video_audio_news)   <br/>
    [ 自己上传的pub包 ]( https://github.com/pheromone/mobile-learn/blob/master/Flutter/%E6%88%91%E7%9A%84pub%E5%BA%93.md ) <br/>
-   [ 项目实战练习 ]( https://github.com/pheromone/flutter_video_audio_news )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/flutter_video_audio_news.svg?style=social&label=Stars)](https://github.com/pheromone/flutter_video_audio_news)   <br/>
    [ flame框架练习：打苍蝇 ]( https://github.com/pheromone/langaw ) [![GitHub stars](https://img.shields.io/github/stars/pheromone/langaw.svg?style=social&label=Stars)](https://github.com/pheromone/langaw)   <br/>
    [ What's Flutter??? ]( https://zhuanlan.zhihu.com/p/52666477 )    <br/>
    [ Flutter中国开源项目 ]( https://github.com/flutterchina )    <br/>
