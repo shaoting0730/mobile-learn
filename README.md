@@ -1,7 +1,7 @@
 ##  🚗🚕🚙🚌🏎🚓🚑🚒🚐🚚🚛🚜🏍🚲🚔🚍🚘🚖🚠🚋🚄🚂🚇🚉🚁 ...
 ###     [ 撸代码,强撸灰飞烟灭-休息一下 ]( https://github.com/pheromone/mobile-learn/blob/master/just_relax.md )    <br/>
   
-# Flutter 🚗
+# Flutter 🚀🚀🚀🚀🚀
    [ Flutter 学习历程demo ]( https://github.com/pheromone/Flutter_learn_demo )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/Flutter_learn_demo.svg?style=social&label=Stars)](https://github.com/pheromone/Flutter_learn_demo) <br/>
    [ 电商项目实战 ]( https://github.com/pheromone/flutter_shop ) [![GitHub stars](https://img.shields.io/github/stars/pheromone/flutter_shop.svg?style=social&label=Stars)](https://github.com/pheromone/flutter_shop)   <br/>
    [ 项目实战练习 ]( https://github.com/pheromone/flutter_video_audio_news )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/flutter_video_audio_news.svg?style=social&label=Stars)](https://github.com/pheromone/flutter_video_audio_news)   <br/>
@@ -86,7 +86,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
 
    
 
-# React Native🚈
+# React Native 🛺 🦯 🦼 🚦 🛵
    [ React Native学习历程 ]( https://github.com/pheromone/React-Native-study )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/React-Native-study.svg?style=social&label=Stars)](https://github.com/pheromone/React-Native-study)  <br/>
    [ React Native之原理浅析 ](  http://blog.poetries.top/2019/10/02/rn-yuanli/ )    <br/>
    [ 《React Native 精解与实战》配套源码 ]( https://github.com/ParryQiu/ReactNative-Book-Demo )    <br/>
@@ -125,7 +125,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
 
    
 
-# iOS 🚋
+# iOS 🚅 🏎 🛩
    [ iOS-Weekly ]( https://github.com/SwiftOldDriver/iOS-Weekly )    <br/>
    [ 唐巧的博客 ]( https://blog.devtang.com/ )    <br/>
    [iOS-面试题集 ]( https://hit-alibaba.github.io/interview/ )    <br/>
@@ -140,7 +140,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
 
 
 
-## swift 🚙
+## swift 🚅 🏎 🛩
    [ swiftUI控件学习历程 ]( https://github.com/pheromone/swift_study )   [![GitHub stars](https://img.shields.io/github/stars/pheromone/swift_study?style=social&label=Stars)](https://github.com/pheromone/swift_study)    <br/>
    [ swift制作的音视频demo,已适配swift3+ ]( https://github.com/pheromone/swift-video-audio )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/swift-video-audio?style=social&label=Stars)](https://github.com/pheromone/swift-video-audio)    <br/>
    [ 第一次学习游戏开发 采用swift3.0 ]( https://github.com/pheromone/Flappy-Bird )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/Flappy-Bird?style=social&label=Stars)](https://github.com/pheromone/Flappy-Bird)    <br/>
@@ -150,7 +150,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ swift4.0 JSON转模型  ]( https://github.com/pheromone/swift_study )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/swift_study?style=social&label=Stars)](https://github.com/pheromone/swift_study)   <br/>
 
 
-## oc 🚚
+## oc 🚅 🏎 🛩
    [ 学习下弹幕制作 ]( https://github.com/pheromone/danMu )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/danMu?style=social&label=Stars)](https://github.com/pheromone/danMu)    <br/>
    [ 学学习下动画 ]( https://github.com/pheromone/iOSAnimationLearn ) [![GitHub stars](https://img.shields.io/github/stars/pheromone/iOSAnimationLearn?style=social&label=Stars)](https://github.com/pheromone/iOSAnimationLearn)    <br/>
    [ 二维码学习 ]( https://github.com/pheromone/QRcode ) [![GitHub stars](https://img.shields.io/github/stars/pheromone/QRcode?style=social&label=Stars)](https://github.com/pheromone/QRcode)    <br/>
@@ -162,11 +162,11 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ iOS推送原理详解 ]( https://juejin.cn/post/7074849751472029703 )    <br/>
 
 
- # Android 🚓	
+ # Android 🚅 🏎 🛩
    [ java入门视频 ]( http://www.maiziedu.com/course/android/ )    <br/>
    [ kotlin 入门]( https://lixiaojun.xin/static/courses/kotlin/#kotlin%E7%9A%84%E5%8E%86%E5%8F%B2 )    <br/>
 
- # 杂类 🚢
+ # 杂类 🚡
    [ free-api  ](  https://github.com/fangzesheng/free-api)    <br/>
    [ TCP/IP详解 ]( http://www.52im.net/topic-tcpipvol1.html )    <br/>
    [ Socket ]( https://github.com/pheromone/mobile-learn/blob/master/Socket.md )    <br/>
