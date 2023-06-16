@@ -1,7 +1,7 @@
 ##  🚗🚕🚙🚌🏎🚓🚑🚒🚐🚚🚛🚜🏍🚲🚔🚍🚘🚖🚠🚋🚄🚂🚇🚉🚁 ...
 ###     [ 撸代码,强撸灰飞烟灭-休息一下 ]( https://github.com/pheromone/mobile-learn/blob/master/just_relax.md )    <br/>
   
-# Flutter 🚀🚀🚀💥💥🪦🪦🪦
+# Flutter 🚀🚀🚀💥💥💥🪦🪦🪦
    [ Flutter 学习历程demo ]( https://github.com/pheromone/Flutter_learn_demo )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/Flutter_learn_demo.svg?style=social&label=Stars)](https://github.com/pheromone/Flutter_learn_demo) <br/>
    [ 电商项目实战 ]( https://github.com/pheromone/flutter_shop ) [![GitHub stars](https://img.shields.io/github/stars/pheromone/flutter_shop.svg?style=social&label=Stars)](https://github.com/pheromone/flutter_shop)   <br/>
    [ 项目实战练习 ]( https://github.com/pheromone/flutter_video_audio_news )  [![GitHub stars](https://img.shields.io/github/stars/pheromone/flutter_video_audio_news.svg?style=social&label=Stars)](https://github.com/pheromone/flutter_video_audio_news)   <br/>
