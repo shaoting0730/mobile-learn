@@ -9,6 +9,7 @@
    [ flame框架练习：打苍蝇 ]( https://github.com/pheromone/langaw ) [![GitHub stars](https://img.shields.io/github/stars/pheromone/langaw.svg?style=social&label=Stars)](https://github.com/pheromone/langaw)   <br/>
    [ What's Flutter??? ]( https://zhuanlan.zhihu.com/p/52666477 )    <br/>
    [ Flutter中国开源项目 ]( https://github.com/flutterchina )    <br/>
+   [ 《Flutter实战·第二版》 ]( https://book.flutterchina.club/#%E7%AC%AC%E4%BA%8C%E7%89%88%E5%8F%98%E5%8C%96 )    <br/>
    [ gskinnerTeam：flutter-folio ]( https://github.com/gskinnerTeam/flutter-folio )    <br/>
    [ gskinnerTeam：flutter-wonderous-app ](    https://github.com/gskinnerTeam/flutter-wonderous-app ) [ 📈学习记录 ]( https://github.com/pheromone/flutter-wonderous-app/blob/master/%E5%AD%A6%E4%B9%A0%E4%B8%80%E4%B8%8B/%E5%AD%A6%E4%B9%A0%E4%B8%80%E4%B8%8B.md )     <br/>
    [ 闲鱼技术：Flutter专栏 ]( https://www.yuque.com/xytech/flutter )    <br/>
