@@ -27,6 +27,7 @@
    [ Flutter 核心技术与实战 ](    https://www.kancloud.cn/alex_wsc/flutter_demo/1559549 )    <br/>
    [ Flutter 跨平台演进及架构开篇-头条 ]( http://gityuan.com/flutter/ )    <br/>
    [ Flutter原理与实践-美团 ]( https://tech.meituan.com/2018/08/09/waimai-flutter-practice.html )    <br/>
+   [ 一条上岸小咸鱼·掘金 ]( https://juejin.cn/user/193956140559304/posts )    <br/>
    [ 零、GSY历程·GitBook ]( https://guoshuyu.cn/home/wx/Flutter-0.html )    <br/>
    [ Vadaski大佬的简书 ]( https://www.jianshu.com/u/f0cd06a06592 )    <br/>
    [ 安卓小哥的掘金 ]( https://juejin.cn/user/1591748567765480/posts )    <br/>
