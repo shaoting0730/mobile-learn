@@ -84,6 +84,8 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ 查看APP所用的库的APP：LibChecker（限安卓） ](   https://github.com/zhaobozhen/LibChecker )    <br/>
    [ 一文快速带你了解 KMM 、 Compose 和 Flutter 的现状2022-10-28  ]( https://mp.weixin.qq.com/s/rnGm1DQ3otnREjJ5pzIEqA )    <br/>
    [ Flutter for Web 首次首屏优化——JS 分片优化 ](   https://juejin.cn/post/7177202619788558391 )    <br/>
+   [ 基于flutter sdk对于OpenHarmony的兼容拓展 ](   https://gitee.com/openharmony-sig/flutter_flutter )    <br/>
+
 
 
 
