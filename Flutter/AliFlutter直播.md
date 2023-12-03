@@ -1,4 +1,4 @@
-   [ Flutter技术解析与实践 ]( https://github.com/pheromone/mobile-learn/blob/master/Flutter%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90.pdf )    <br/>
+   [ Flutter技术解析与实践 ]( https://github.com/shaoting0730/mobile-learn/blob/master/Flutter%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90.pdf )    <br/>
 🎉第一期直播回放：http://mudu.tv/watch/5466337  <br/>
 「AliFlutter客户端研发体系概览」PPT：https://files.alicdn.com/tpsservice/89ab52b6cec155a86578e0aa4c8e4c08.pdf  <br/>
 「闲鱼研发框架应用和探索」PPT:https://files.alicdn.com/tpsservice/2a6760dd0ffb62678d0bde1e76d0b1f8.pdf  <br/>
