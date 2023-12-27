@@ -131,6 +131,8 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
   [ hello uni-app x ]( https://gitcode.net/dcloud/hello-uni-app-x )    <br/>
   [ uni-app 插件市场 ]( https://ext.dcloud.net.cn/ )    <br/>
   [ uni-app 插件市场 ]( https://ext.dcloud.net.cn/plugin?name=codegeex-zhipuai )    <br/>
+  [ CodeGeeX for HBuilderX ]( https://ext.dcloud.net.cn/plugin?name=codegeex-zhipuai )    <br/>
+
 
 
 # 微信小程序 🏍
@@ -139,9 +141,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ 微信小程序-自定义previewImage ](   https://github.com/shaoting0730/mobile-learn/tree/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/mini_custom_previewImage  )    <br/>
    [ 微信小程序-使用事件收发:监听发送事件传值 ](   https://github.com/shaoting0730/mobile-learn/tree/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/mini_event  )    <br/>
    [taro]( https://github.com/shaoting0730/mobile-learn/tree/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/taro )    <br/>
-   [ CodeGeeX for HBuilderX ]( https://github.com/mpflutter/mpflutter )    <br/>
 
-   
 
 # iOS 🚅 🏎 🛩
    [ iOS-Weekly ]( https://github.com/SwiftOldDriver/iOS-Weekly )    <br/>
