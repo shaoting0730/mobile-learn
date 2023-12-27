@@ -125,6 +125,13 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
   [react_navigation3.X 与 Mobx结合使用](https://github.com/shaoting0730/mobxRN)   [![GitHub stars](https://img.shields.io/github/stars/shaoting0730/mobxRN?style=social&label=Stars)](https://github.com/shaoting0730/mobxRN)   <br/>
   [react_native使用自定义字体]( https://github.com/shaoting0730/customFont_RN )    <br/>
 
+# uni-app  uni-appx
+  [ uni-app 官方网站 ]( https://uniapp.dcloud.net.cn/ )    <br/>
+  [ uni-appx 官方网站 ]( https://doc.dcloud.net.cn/uni-app-x/ )    <br/>
+  [ hello uni-app x ]( https://gitcode.net/dcloud/hello-uni-app-x )    <br/>
+  [ uni-app 插件市场 ]( https://ext.dcloud.net.cn/ )    <br/>
+
+
 # 微信小程序 🏍
    [ 第一次尝试微信小程序 ]( https://github.com/shaoting0730/FirstWeChatSmall )  [![GitHub stars](https://img.shields.io/github/stars/shaoting0730/FirstWeChatSmall?style=social&label=Stars)](https://github.com/shaoting0730/FirstWeChatSmall)    <br/>
    [ 微信小程序-在component中绘制canvas并且生成图片 ](    https://github.com/shaoting0730/mobile-learn/tree/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/mini-canvas )    <br/>
