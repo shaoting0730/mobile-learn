@@ -130,6 +130,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
   [ uni-appx 官方网站 ]( https://doc.dcloud.net.cn/uni-app-x/ )    <br/>
   [ hello uni-app x ]( https://gitcode.net/dcloud/hello-uni-app-x )    <br/>
   [ uni-app 插件市场 ]( https://ext.dcloud.net.cn/ )    <br/>
+  [ uni-app 插件市场 ]( https://ext.dcloud.net.cn/plugin?name=codegeex-zhipuai )    <br/>
 
 
 # 微信小程序 🏍
@@ -138,7 +139,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ 微信小程序-自定义previewImage ](   https://github.com/shaoting0730/mobile-learn/tree/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/mini_custom_previewImage  )    <br/>
    [ 微信小程序-使用事件收发:监听发送事件传值 ](   https://github.com/shaoting0730/mobile-learn/tree/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/mini_event  )    <br/>
    [taro]( https://github.com/shaoting0730/mobile-learn/tree/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/taro )    <br/>
-   [flutter写小程序]( https://github.com/mpflutter/mpflutter )    <br/>
+   [ CodeGeeX for HBuilderX ]( https://github.com/mpflutter/mpflutter )    <br/>
 
    
 
