@@ -131,7 +131,6 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
   [ uni-appx 官方网站 ]( https://doc.dcloud.net.cn/uni-app-x/ )    <br/>
   [ hello uni-app x ]( https://gitcode.net/dcloud/hello-uni-app-x )    <br/>
   [ uni-app 插件市场 ]( https://ext.dcloud.net.cn/ )    <br/>
-  [ uni-app 插件市场 ]( https://ext.dcloud.net.cn/plugin?name=codegeex-zhipuai )    <br/>
   [ CodeGeeX for HBuilderX ]( https://ext.dcloud.net.cn/plugin?name=codegeex-zhipuai )    <br/>
 
 
