@@ -126,7 +126,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
   [react_navigation3.X 与 Mobx结合使用](https://github.com/shaoting0730/mobxRN)   [![GitHub stars](https://img.shields.io/github/stars/shaoting0730/mobxRN?style=social&label=Stars)](https://github.com/shaoting0730/mobxRN)   <br/>
   [react_native使用自定义字体]( https://github.com/shaoting0730/customFont_RN )    <br/>
 
-# uni-app  uni-appx
+# uni-app  uni-appx  🏍🏍
   [ uni-app 官方网站 ]( https://uniapp.dcloud.net.cn/ )    <br/>
   [ uni-appx 官方网站 ]( https://doc.dcloud.net.cn/uni-app-x/ )    <br/>
   [ hello uni-app x ]( https://gitcode.net/dcloud/hello-uni-app-x )    <br/>
