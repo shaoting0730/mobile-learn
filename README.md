@@ -185,6 +185,9 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ java入门视频 ]( http://www.maiziedu.com/course/android/ )    <br/>
    [ kotlin 入门]( https://lixiaojun.xin/static/courses/kotlin/#kotlin%E7%9A%84%E5%8E%86%E5%8F%B2 )    <br/>
 
+ # 鸿蒙  🚅 🏎 🛩 ？
+ [ 鸿蒙 ]( https://github.com/shaoting0730/mobile-learn/blob/master/flutter%E5%BC%80%E5%8F%91%E9%B8%BF%E8%92%99.md )    <br/>
+
  # 杂类 🚡
    [ free-api  ](  https://github.com/fangzesheng/free-api)    <br/>
    [ TCP/IP详解 ]( http://www.52im.net/topic-tcpipvol1.html )    <br/>
