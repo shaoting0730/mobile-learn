@@ -185,7 +185,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ Android学习历程 ]( https://github.com/shaoting0730/mobile-learn/tree/master/Android )    <br/>
 
  # 鸿蒙  🚅 🏎 🛩 ？
- [ 鸿蒙 ]( https://github.com/shaoting0730/mobile-learn/blob/master/%E9%B8%BF%E8%92%99%E5%BC%80%E5%8F%91.md )    <br/>
+ [ 鸿蒙学习历程 ]( https://github.com/shaoting0730/mobile-learn/blob/master/%E9%B8%BF%E8%92%99%E5%BC%80%E5%8F%91.md )    <br/>
 
  # 杂类 🚡
    [ free-api  ](  https://github.com/fangzesheng/free-api)    <br/>
