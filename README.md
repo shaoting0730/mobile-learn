@@ -143,6 +143,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ 微信小程序-自定义previewImage ](   https://github.com/shaoting0730/mobile-learn/tree/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/mini_custom_previewImage  )    <br/>
    [ 微信小程序-使用事件收发:监听发送事件传值 ](   https://github.com/shaoting0730/mobile-learn/tree/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/mini_event  )    <br/>
    [taro]( https://github.com/shaoting0730/mobile-learn/tree/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/taro )    <br/>
+   [小程序新渲染引擎 Skyline 发布正式版官方]( https://developers.weixin.qq.com/community/business/doc/0006cc112685d87e0580fb62d6180d )    <br/>
 
 
 # iOS 🚅 🏎 🛩
