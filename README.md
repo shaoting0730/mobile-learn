@@ -2,7 +2,7 @@
 ###     [ 撸代码,强撸灰飞烟灭-休息一下 ]( https://github.com/shaoting0730/mobile-learn/blob/master/just_relax.md )    <br/>
   
 # Flutter 🚀🚀🚀💥💥💥🪦🪦🪦
-   [ Flutter 学习历程 ]( https://github.com/shaoting0730/mobile-learn/tree/master/Flutter )]
+   [ Flutter 学习历程 ]( https://github.com/shaoting0730/mobile-learn/tree/master/Flutter )
 
 # React Native 🛺 🦯 🦼 🚦 🛵
    [ React Native 学习历程 ](  https://github.com/shaoting0730/mobile-learn/tree/master/React%20Native  )    <br/>
