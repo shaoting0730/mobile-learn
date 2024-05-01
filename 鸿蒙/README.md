@@ -1,3 +1,4 @@
+> [ 学习历程demo ]( https://github.com/shaoting0730/HarmonyOS_learn_demo )   <br/>
 > [ HarmonyOS官网 ]( https://developer.harmonyos.com/cn )   <br/>
 > [ 三方库中央仓 ]( https://ohpm.openharmony.cn/#/cn/home )   <br/>
 > [ codelabs开发案例 ]( https://gitee.com/harmonyos/codelabs )   <br/>
@@ -12,7 +13,7 @@
 > [ 不吹不黑聊鸿蒙 ]( https://www.bilibili.com/video/BV18T4y1h7ch/?spm_id_from=333.999.0.0 )   <br/>
 > [ 鸿蒙开发者学堂 ]( https://developer.huawei.com/consumer/cn/training/study-path/101652404956923765 )   <br/>
 > [ 黑马程序员HarmonyOS4+NEXT ]( https://www.bilibili.com/video/BV1Sa4y1Z7B1/?spm_id_from=333.337.search-card.all.click&vd_source=bc5bee468c2cbda6193e66c4288c8c7b )   <br/>
-> [ 学习历程 ]( https://github.com/shaoting0730/HarmonyOS_learn_demo )   <br/>
+
 
 
 
