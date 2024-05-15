@@ -4,7 +4,6 @@
  [ gradle版本-插件版本 ]( https://developer.android.google.cn/build/releases/gradle-plugin#updating-plugin )   <br/>
  [ gradle下载 ]( https://services.gradle.org/distributions/ )   <br/>
  [ 使用过得开发库 ]( https://github.com/shaoting0730/mobile-learn/blob/master/Android/%E4%BD%BF%E7%94%A8%E8%BF%87%E7%9A%84%E5%BC%80%E5%8F%91%E5%BA%93.md )    <br/>
- [ Android开发从入门到精通（项目案例版）：B站 ]( https://www.bilibili.com/video/BV1jW411375J/?p=2&spm_id_from=pageDriver&vd_source=bc5bee468c2cbda6193e66c4288c8c7b )    <br/>
  [ Android UI文档 ]( https://developer.android.google.cn/develop/ui/views/layout/declaring-layout?hl=zh-cn )    <br/>
  [ Android 系统源码分析-前身 ]( https://github.com/sucese/android-open-source-project-analysis )    <br/>
  [ Android 系统源码分析 ]( https://github.com/BeesX/BeesAndroid )    <br/>
