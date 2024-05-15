@@ -1,6 +1,6 @@
  [ Android学习历程demo ]( https://github.com/shaoting0730/android_learn_demo )  [![GitHub stars](https://img.shields.io/github/stars/shaoting0730/android_learn_demo.svg?style=social&label=Stars)](https://github.com/shaoting0730/flutter_video_audio_news)   <br/>
  [ mvnrepository三方库查询 ]( https://mvnrepository.com/ )   <br/>
- minSdkVersion <=  targetSdkVersion <= compileSdkVersion
+ minSdkVersion <=  targetSdkVersion <= compileSdkVersion  <br/>
  [ gradle版本-插件版本 ]( https://developer.android.google.cn/build/releases/gradle-plugin#updating-plugin )   <br/>
  [ gradle下载 ]( https://services.gradle.org/distributions/ )   <br/>
  [ 使用过得开发库 ]( https://github.com/shaoting0730/mobile-learn/blob/master/Android/%E4%BD%BF%E7%94%A8%E8%BF%87%E7%9A%84%E5%BC%80%E5%8F%91%E5%BA%93.md )    <br/>
