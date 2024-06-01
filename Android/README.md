@@ -14,3 +14,4 @@
  [ 最佳实践：Android应用中的网络请求和数据缓存 ]( https://blog.csdn.net/u011897062/article/details/130243052 )    <br/>
  [ Android activity生命周期 ]( https://github.com/shaoting0730/mobile-learn/blob/master/Android/activity%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.jpg )    <br/>
  [ Android fragment生命周期 ]( https://github.com/shaoting0730/mobile-learn/blob/master/Android/fragment%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.jpg )    <br/>
+ [ ViewBinding的使用 ]( https://developer.android.com/topic/libraries/view-binding?hl=zh-cn#groovy )    <br/>
