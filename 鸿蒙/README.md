@@ -14,6 +14,8 @@
 > [ 鸿蒙开发者学堂 ]( https://developer.huawei.com/consumer/cn/training/study-path/101652404956923765 )   <br/>
 > [ 黑马程序员HarmonyOS4+NEXT ]( https://www.bilibili.com/video/BV1Sa4y1Z7B1/?spm_id_from=333.337.search-card.all.click&vd_source=bc5bee468c2cbda6193e66c4288c8c7b )   <br/>
 
+> [ 仓颉编程语言白皮书 ]( https://developer.huawei.com/consumer/cn/doc/openharmony-cangjie/cj-wp-abstract )   <br/>
+
 
 
 
