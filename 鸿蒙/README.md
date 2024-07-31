@@ -13,6 +13,7 @@
 > [ 不吹不黑聊鸿蒙 ]( https://www.bilibili.com/video/BV18T4y1h7ch/?spm_id_from=333.999.0.0 )   <br/>
 > [ 鸿蒙开发者学堂 ]( https://developer.huawei.com/consumer/cn/training/study-path/101652404956923765 )   <br/>
 > [ 黑马程序员HarmonyOS4+NEXT ]( https://www.bilibili.com/video/BV1Sa4y1Z7B1/?spm_id_from=333.337.search-card.all.click&vd_source=bc5bee468c2cbda6193e66c4288c8c7b )   <br/>
+> [ Rust 跨平台-Android 和鸿蒙 OS ]( https://mp.weixin.qq.com/s/BOtAS5TjeGSTW5eZbVhbnw )   <br/>
 
 > [ 仓颉编程语言白皮书 ]( https://developer.huawei.com/consumer/cn/doc/openharmony-cangjie/cj-wp-abstract )   <br/>
 
