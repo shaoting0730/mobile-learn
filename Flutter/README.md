@@ -85,6 +85,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ Flutter应用如何调试--DevTools介绍(上) ](   https://www.jianshu.com/p/7d8e5e0679f7 )    <br/>
    [ Using the Flutter inspector ]( https://docs.flutter.dev/tools/devtools/inspector )    <br/>
    [ 查看APP所用的库的APP：LibChecker（限安卓） ](   https://github.com/zhaobozhen/LibChecker )    <br/>
+   [ 查看APP所用的库的APP：FlutterShark（限安卓） ](   https://play.google.com/store/apps/details?id=com.fluttershark.fluttersharkapp&hl=en_SG )    <br/>
    [ 一文快速带你了解 KMM 、 Compose 和 Flutter 的现状2022-10-28  ]( https://mp.weixin.qq.com/s/rnGm1DQ3otnREjJ5pzIEqA )    <br/>
    [ Flutter for Web 首次首屏优化——JS 分片优化 ](   https://juejin.cn/post/7177202619788558391 )    <br/>
    [ reactivex ](   https://reactivex.io/ )    <br/>
