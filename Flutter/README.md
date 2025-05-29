@@ -3,6 +3,7 @@
    [ 项目实战练习 ]( https://github.com/shaoting0730/flutter_video_audio_news )  [![GitHub stars](https://img.shields.io/github/stars/shaoting0730/flutter_video_audio_news.svg?style=social&label=Stars)](https://github.com/shaoting0730/flutter_video_audio_news)   <br/>
    [ 自己上传的pub包 ]( https://github.com/shaoting0730/mobile-learn/blob/master/Flutter/%E6%88%91%E7%9A%84pub%E5%BA%93.md ) <br/>
    [ flame框架练习：打苍蝇 ]( https://github.com/shaoting0730/langaw ) [![GitHub stars](https://img.shields.io/github/stars/shaoting0730/langaw.svg?style=social&label=Stars)](https://github.com/shaoting0730/langaw)   <br/>
+   [ mpflutter:Flutter 小程序开发框架 ]( https://mpflutter.com/zh/ )    <br/>
    [ toly_game ]( https://github.com/toly1994328/toly_game )    <br/>
    [ What's Flutter??? ]( https://zhuanlan.zhihu.com/p/52666477 )    <br/>
    [ Flutter中国开源项目 ]( https://github.com/flutterchina )    <br/>
