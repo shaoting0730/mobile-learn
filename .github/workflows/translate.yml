@@ -1,6 +1,6 @@
 jobs:
   call-translate:
-    uses: shaoting0730/mobile-learn/.github/workflows/translate-readme.yml@main
+    uses: shaoting0730/shaoting0730/blob/main/.github/workflows/translate-readme.yml@main
     with:
       file: README.md
     secrets:
