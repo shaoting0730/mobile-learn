@@ -1,7 +1,0 @@
-jobs:
-  call-translate:
-    uses: yourname/translate-workflows/.github/workflows/translate-readme.yml@main
-    with:
-      file: README.md
-    secrets:
-      OPENAI_API_KEY: ${{ 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 }}
