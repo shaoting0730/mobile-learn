@@ -1,4 +1,8 @@
 jobs:
+ name: Translate README
+ on:
+  workflow_dispatch: # 手动触发
+
   call-translate:
     uses: shaoting0730/shaoting0730/.github/workflows/translate-readme.yml@main
     with:
