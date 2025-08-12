@@ -1,11 +1,11 @@
 name: Call Translate README
 
 on:
-  workflow_dispatch: # 手动触发
+  workflow_dispatch:  # 允许手动触发
 
 jobs:
   call-translate:
-    uses: shaoting0730/workflow-templates/.github/workflows/translate-readme.yml@main
+    uses: shaoting0730/mobile-learn/.github/workflows/translate-readme.yml@main
     with:
       file: README.md
     secrets:
