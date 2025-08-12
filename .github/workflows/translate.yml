@@ -1,8 +1,10 @@
 name: Call Reusable Translate
 
-push:
-  paths:
-    - README.md
+on:
+  push:
+    paths:
+      - README.md
+  workflow_dispatch:
 
 jobs:
   call-translate:
