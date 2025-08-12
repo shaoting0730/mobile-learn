@@ -1,12 +1,26 @@
-name: Call Translate README
+name: Test Translate Workflow
 
 on:
-  workflow_dispatch:  # 允许手动触发
+  workflow_dispatch:
+  push:
+    paths:
+      - README.md
 
 jobs:
-  call-translate:
-    uses: shaoting0730/mobile-learn/.github/workflows/translate-readme.yml@main
-    with:
-      file: README.md
-    secrets:
-      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Echo and create test file
+        run: |
+          echo "Workflow ran successfully"
+          echo "ok" > README.test.md
+
+      - name: Commit test file
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.test.md || true
+          git commit -m "chore: add test file" || echo "No changes to commit"
+          git push || echo "push failed (if read-only token)"
