@@ -1,15 +1,23 @@
-name: Call Translate Workflow
-
-on:
-  workflow_dispatch: {}
-  push:
-    paths:
-      - README.md
+name: Auto Translate
+on: [push]  # 触发条件
 
 jobs:
-  call-translate:
-    uses: shaoting0730/shaoting0730/.github/workflows/translate-readme.yml@main
-    with:
-      file: README.md
-    secrets:
-      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      # 步骤1：检出代码
+      - uses: actions/checkout@v3
+      
+      # 步骤2：翻译配置 → 写在 with 参数块
+      - name: Translate to Chinese
+        uses: dephraiim/translate-readme@main
+        with:   # ← 核心配置区域
+          LANG: zh-CN
+          SOURCE_FILE: README.md
+      
+      # 步骤3：提交更改 → 写在 run 命令块
+      - name: Commit changes
+        run: |  # ← 命令执行区域
+          git add .
+          git commit -m "Auto translate"
+          git push
