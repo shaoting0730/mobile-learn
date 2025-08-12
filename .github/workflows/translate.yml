@@ -12,5 +12,4 @@ jobs:
     with:
       file: README.md
     secrets:
-      # 如果被调用 workflow 需要 OPENAI_API_KEY 且你在 caller 仓库的 Secrets 有配置：
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
