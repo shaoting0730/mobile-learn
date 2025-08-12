@@ -8,7 +8,7 @@ on:
 
 jobs:
   call-translate:
-    uses: shaoting0730/shaoting0730/.github/workflows/translate-readme.yml@main
+    uses: shaoting0730/.github/workflows/translate-readme.yml@main
     with:
       file: README.md
     secrets:
