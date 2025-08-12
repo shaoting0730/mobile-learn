@@ -1,6 +1,6 @@
 jobs:
   call-translate:
-    uses: https://github.com/shaoting0730/shaoting0730/blob/main/.github/workflows/translate-readme.yml@main
+    uses: shaoting0730/repository//shaoting0730/blob/main/.github/workflows/translate-readme.yml@main
     with:
       file: README.md
     secrets:
