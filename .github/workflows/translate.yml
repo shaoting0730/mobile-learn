@@ -1,14 +1,14 @@
-name: Call Reusable Translate
+name: Call Translate Workflow
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - README.md
-  workflow_dispatch:
 
 jobs:
   call-translate:
-    uses: shaoting0730/.github/workflows/translate-readme.yml@main
+    uses: shaoting0730/shaoting0730/.github/workflows/translate-readme.yml@main
     with:
       file: README.md
     secrets:
