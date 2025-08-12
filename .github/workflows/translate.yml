@@ -1,26 +1,13 @@
-name: Test Translate Workflow
+name: Call Reusable Translate
 
 on:
-  workflow_dispatch:
-  push:
-    paths:
-      - README.md
+push: paths: [README.md]
 
 jobs:
-  test:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-
-      - name: Echo and create test file
-        run: |
-          echo "Workflow ran successfully"
-          echo "ok" > README.test.md
-
-      - name: Commit test file
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "github-actions[bot]"
-          git add README.test.md || true
-          git commit -m "chore: add test file" || echo "No changes to commit"
-          git push || echo "push failed (if read-only token)"
+  call-translate:
+    uses: shaoting0730/workflow-templates/.github/workflows/translate-readme.yml@main
+    with:
+      file: README.md
+    secrets:
+      # 如果被调用 workflow 需要 OPENAI_API_KEY 且你在 caller 仓库的 Secrets 有配置：
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
