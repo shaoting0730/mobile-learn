@@ -1,15 +1,37 @@
-name: Call Translate Workflow
+name: Translate README
 
 on:
-  workflow_dispatch: {} # 手动触发
   push:
-    paths:
-      - README.md # 当 README.md 改动时自动触发
-
+    branches:
+      - main
+      - master
 jobs:
-  call-translate:
-    uses: shaoting0730/shaoting0730/.github/workflows/translate-readme.yml@main
-    with:
-      file: README.md # ✅ 和被调用方的 inputs.file 一致
-    secrets:
-      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+      # ISO Langusge Codes: https://cloud.google.com/translate/docs/languages  
+      - name: Adding README - Chinese Simplified
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: zh-CN
+      - name: Adding README - Chinese Traditional
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: zh-TW
+      - name: Adding README - Hindi
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: hi
+      - name: Adding README - Arabic
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: ar
+      - name: Adding README - French
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: fr
