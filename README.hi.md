@@ -32,7 +32,7 @@
 </div>
 -->
 
--   [अंग्रेज़ी](README.md)
+-   [अंग्रेज़ी](README.en.md)
 -   [सरलीकृत चीनी](README.zh-CN.md)
 -   [परंपरागत चीनी](README.zh-TW.md)
 -   [हिंदी](README.hi.md)
