@@ -32,7 +32,7 @@
 </div>
 -->
 
--   [إنجليزي](README.md)
+-   [إنجليزي](README.en.md)
 -   [مبسطة الصينية](README.zh-CN.md)
 -   [الصينية التقليدية](README.zh-TW.md)
 -   [الهندية](README.hi.md)
