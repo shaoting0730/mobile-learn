@@ -32,9 +32,15 @@
 </div>
 -->
 
+-   [अंग्रेज़ी](README.md)
+-   [सरलीकृत चीनी](README.zh-CN.md)
+-   [परंपरागत चीनी](README.zh-TW.md)
+-   [हिंदी](README.hi.md)
+-   [फ्रांसीसी](README.fr.md)
+
 ## [लर्निंग हिस्ट्री](https://github.com/shaoting0730/mobile-learn/tree/master/Flutter)
 
-## [ React Native 学习历程 ](https://github.com/shaoting0730/mobile-learn/tree/master/React%20Native)<br/>
+## [रिएक्ट नेटिव लर्निंग हिस्ट्री](https://github.com/shaoting0730/mobile-learn/tree/master/React%20Native)<br/>
 
 ## [यूनी ऐप लर्निंग हिस्ट्री](https://github.com/shaoting0730/mobile-learn/tree/master/uniapp)<br/>
 
