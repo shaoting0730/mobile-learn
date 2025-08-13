@@ -35,8 +35,6 @@
 -   [English](README.en.md)
 -   [Simplified Chinese](README.zh-CN.md)
 -   [Traditional Chinese](README.zh-TW.md)
--   [Hindi](README.hi.md)
--   [Française](README.fr.md)
 
 ## [Flutter Learning History](https://github.com/shaoting0730/mobile-learn/tree/master/Flutter)
 
