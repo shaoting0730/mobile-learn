@@ -32,6 +32,12 @@
 </div>
 -->
 
+-   [إنجليزي](README.md)
+-   [مبسطة الصينية](README.zh-CN.md)
+-   [الصينية التقليدية](README.zh-TW.md)
+-   [الهندية](README.hi.md)
+-   [فرنسي](README.fr.md)
+
 ## [تاريخ التعلم رفرفة](https://github.com/shaoting0730/mobile-learn/tree/master/Flutter)
 
 ## [رد فعل تاريخ التعلم الأصلي](https://github.com/shaoting0730/mobile-learn/tree/master/React%20Native)<br/>
