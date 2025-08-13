@@ -32,6 +32,12 @@
 </div>
 -->
 
+-   [Anglais](README.md)
+-   [Chinois simplifié](README.zh-CN.md)
+-   [Chinois traditionnel](README.zh-TW.md)
+-   [hindi](README.hi.md)
+-   [Française](README.fr.md)
+
 ## [Histoire de l'apprentissage de Flutter](https://github.com/shaoting0730/mobile-learn/tree/master/Flutter)
 
 ## [Réagir l'histoire de l'apprentissage natif](https://github.com/shaoting0730/mobile-learn/tree/master/React%20Native)<br/>
