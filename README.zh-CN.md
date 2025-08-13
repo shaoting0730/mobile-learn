@@ -36,7 +36,7 @@
 -   [简体中文](README.zh-CN.md)
 -   [繁体中文](README.zh-TW.md)
 -   [印地语](README.hi.md)
--   [法语](README.fr.md)
+-   [Française](README.fr.md)
 
 ## [Flutter 学习历程](https://github.com/shaoting0730/mobile-learn/tree/master/Flutter)
 
