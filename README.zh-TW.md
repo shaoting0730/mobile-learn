@@ -32,7 +32,7 @@
 </div>
 -->
 
--   [英語](README.md)
+-   [英語](README.en.md)
 -   [簡體中文](README.zh-CN.md)
 -   [繁體中文](README.zh-TW.md)
 -   [印地語](README.hi.md)
@@ -46,9 +46,9 @@
 
 ## [微信小程序原生 學習歷程](https://github.com/shaoting0730/mobile-learn/tree/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F)<br/>
 
-## [ iOS 学习历程 ](https://github.com/shaoting0730/mobile-learn/tree/master/iOS)<br/>
+## [iOS 學習歷程](https://github.com/shaoting0730/mobile-learn/tree/master/iOS)<br/>
 
-## [ Android 学习历程 ](https://github.com/shaoting0730/mobile-learn/tree/master/Android)<br/>
+## [Android 學習歷程](https://github.com/shaoting0730/mobile-learn/tree/master/Android)<br/>
 
 ## [鴻蒙學習歷程](https://github.com/shaoting0730/mobile-learn/tree/master/%E9%B8%BF%E8%92%99)<br/>
 
