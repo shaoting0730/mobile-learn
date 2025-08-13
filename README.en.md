@@ -32,13 +32,13 @@
 </div>
 -->
 
--   [English](README.md)
+-   [English](README.en.md)
 -   [Simplified Chinese](README.zh-CN.md)
 -   [Traditional Chinese](README.zh-TW.md)
 -   [Hindi](README.hi.md)
 -   [Française](README.fr.md)
 
-## [ Flutter 学习历程 ](https://github.com/shaoting0730/mobile-learn/tree/master/Flutter)
+## [Flutter Learning History](https://github.com/shaoting0730/mobile-learn/tree/master/Flutter)
 
 ## [React Native Learning History](https://github.com/shaoting0730/mobile-learn/tree/master/React%20Native)<br/>
 
