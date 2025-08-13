@@ -32,7 +32,7 @@
 </div>
 -->
 
--   [English](README.en.md)
+-   [英語](README.en.md)
 -   [簡體中文](README.zh-CN.md)
 -   [繁體中文](README.zh-TW.md)
 
