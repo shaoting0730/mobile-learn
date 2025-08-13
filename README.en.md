@@ -48,6 +48,6 @@
 
 ## [Android learning history](https://github.com/shaoting0730/mobile-learn/tree/master/Android)<br/>
 
-## [Hongmeng Learning History](https://github.com/shaoting0730/mobile-learn/tree/master/%E9%B8%BF%E8%92%99)<br/>
+## [ 鸿蒙学习历程 ](https://github.com/shaoting0730/mobile-learn/tree/master/%E9%B8%BF%E8%92%99)<br/>
 
 ## [Miscellaneous learning](https://github.com/shaoting0730/mobile-learn/tree/master/%E6%9D%82%E7%B1%BB)<br/>
