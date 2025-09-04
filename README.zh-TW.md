@@ -32,9 +32,9 @@
 </div>
 -->
 
--   [英語](README.en.md)
+-   [English](README.en.md)
 -   [簡體中文](README.zh-CN.md)
--   [繁體中文](README.zh-TW.md)
+-   [繁体中文](README.zh-TW.md)
 
 ## [Flutter 學習歷程](https://github.com/shaoting0730/mobile-learn/tree/master/Flutter)
 
