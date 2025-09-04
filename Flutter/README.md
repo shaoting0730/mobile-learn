@@ -77,6 +77,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ bonfire库 ](  https://github.com/RafaelBarbosatec/bonfire )    <br/>
    [ flame库 ](    https://github.com/flame-engine/flame )    <br/>
    [ forge2d-物理引擎 ]( https://github.com/flame-engine/forge2d )    <br/>
+   [ forge3d-物理引擎 ]( https://pub.dev/packages/flame_3d )    <br/>
    [ flame中文网 ](   https://www.flame-cn.com/ )    <br/>
    [ 游戏资源 ](    https://itch.io/game-assets )    <br/>
    [ flet:用Python写flutter ](    https://github.com/flet-dev/flet )    <br/>
@@ -92,3 +93,4 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ reactivex ](   https://reactivex.io/ )    <br/>
    [ 基于flutter sdk对于OpenHarmony的兼容拓展 ](   https://gitee.com/openharmony-sig/flutter_flutter )    <br/>
    [ Kotlin 多平台移动 vs Flutter：跨平台移动应用开发的终极对决 ](   https://page.om.qq.com/page/OqP2cswIxV0u-7F5wrTuP1eg0 )    <br/>
+
