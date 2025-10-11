@@ -36,18 +36,18 @@
 -   [Simplified Chinese](README.zh-CN.md)
 -   [Traditional Chinese](README.zh-TW.md)
 
-## [Flutter Learning History](https://github.com/shaoting0730/mobile-learn/tree/master/Flutter)
+## [Flutter learning journey](https://github.com/shaoting0730/mobile-learn/tree/master/Flutter)
 
-## [React Native Learning History](https://github.com/shaoting0730/mobile-learn/tree/master/React%20Native)<br/>
+## [React Native learning journey](https://github.com/shaoting0730/mobile-learn/tree/master/React%20Native)<br/>
 
-## [Uni app learning history](https://github.com/shaoting0730/mobile-learn/tree/master/uniapp)<br/>
+## [uni app learning process](https://github.com/shaoting0730/mobile-learn/tree/master/uniapp)<br/>
 
-## [WeChat applet native learning history](https://github.com/shaoting0730/mobile-learn/tree/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F)<br/>
+## [ 微信小程序原生 学习历程 ](https://github.com/shaoting0730/mobile-learn/tree/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F)<br/>
 
-## [iOS learning history](https://github.com/shaoting0730/mobile-learn/tree/master/iOS)<br/>
+## [iOS learning journey](https://github.com/shaoting0730/mobile-learn/tree/master/iOS)<br/>
 
-## [Android learning history](https://github.com/shaoting0730/mobile-learn/tree/master/Android)<br/>
+## [Android learning journey](https://github.com/shaoting0730/mobile-learn/tree/master/Android)<br/>
 
-## [Hongmeng Learning History](https://github.com/shaoting0730/mobile-learn/tree/master/%E9%B8%BF%E8%92%99)<br/>
+## [Hongmeng learning process](https://github.com/shaoting0730/mobile-learn/tree/master/%E9%B8%BF%E8%92%99)<br/>
 
-## [Miscellaneous learning](https://github.com/shaoting0730/mobile-learn/tree/master/%E6%9D%82%E7%B1%BB)<br/>
+## [miscellaneous learning](https://github.com/shaoting0730/mobile-learn/tree/master/%E6%9D%82%E7%B1%BB)<br/>
