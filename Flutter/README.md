@@ -88,6 +88,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ Flutter应用如何调试--DevTools介绍(上) ](   https://www.jianshu.com/p/7d8e5e0679f7 )    <br/>
    [ Using the Flutter inspector ]( https://docs.flutter.dev/tools/devtools/inspector )    <br/>
    [ 查看APP所用的库的APP：LibChecker（限安卓） ](   https://github.com/zhaobozhen/LibChecker )    <br/>
+   [ 查看APP所用的库的APP：FlutterEye（限安卓） ](   https://play.google.com/store/apps/details?id=com.ailin.flutter_eye )    <br/>
    [ 查看APP所用的库的APP：FlutterShark（限安卓） ](   https://play.google.com/store/apps/details?id=com.fluttershark.fluttersharkapp&hl=en_SG )    <br/>
    [ proxypin 抓包工具 ](   https://github.com/wanghongenpin/proxypin )    <br/>
    [ 一文快速带你了解 KMM 、 Compose 和 Flutter 的现状2022-10-28  ]( https://mp.weixin.qq.com/s/rnGm1DQ3otnREjJ5pzIEqA )    <br/>
@@ -95,6 +96,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ reactivex ](   https://reactivex.io/ )    <br/>
    [ 基于flutter sdk对于OpenHarmony的兼容拓展 ](   https://gitee.com/openharmony-sig/flutter_flutter )    <br/>
    [ Kotlin 多平台移动 vs Flutter：跨平台移动应用开发的终极对决 ](   https://page.om.qq.com/page/OqP2cswIxV0u-7F5wrTuP1eg0 )    <br/>
+
 
 
 
