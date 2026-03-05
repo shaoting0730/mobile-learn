@@ -36,7 +36,7 @@
 -   [Simplified Chinese](README.zh-CN.md)
 -   [Traditional Chinese](README.zh-TW.md)
 
-## [ Flutter 学习历程 ](https://github.com/shaoting0730/mobile-learn/tree/master/Flutter)
+## [Flutter learning journey](https://github.com/shaoting0730/mobile-learn/tree/master/Flutter)
 
 ## [React Native learning journey](https://github.com/shaoting0730/mobile-learn/tree/master/React%20Native)<br/>
 
@@ -50,4 +50,4 @@
 
 ## [Hongmeng learning process](https://github.com/shaoting0730/mobile-learn/tree/master/%E9%B8%BF%E8%92%99)<br/>
 
-## [ 杂类学习 ](https://github.com/shaoting0730/mobile-learn/tree/master/%E6%9D%82%E7%B1%BB)<br/>
+## [miscellaneous learning](https://github.com/shaoting0730/mobile-learn/tree/master/%E6%9D%82%E7%B1%BB)<br/>
