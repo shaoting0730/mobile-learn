@@ -32,13 +32,13 @@
 </div>
 -->
 
--   [英语](README.en.md)
+-   [English](README.en.md)
 -   [简体中文](README.zh-CN.md)
 -   [繁体中文](README.zh-TW.md)
 
 ## [Flutter 学习历程](https://github.com/shaoting0730/mobile-learn/tree/master/Flutter)
 
-## [ React Native 学习历程 ](https://github.com/shaoting0730/mobile-learn/tree/master/React%20Native)    <br/>
+## [React Native 学习历程](https://github.com/shaoting0730/mobile-learn/tree/master/React%20Native)<br/>
 
 ## [uni app 学习历程](https://github.com/shaoting0730/mobile-learn/tree/master/uniapp)<br/>
 
@@ -48,6 +48,6 @@
 
 ## [Android 学习历程](https://github.com/shaoting0730/mobile-learn/tree/master/Android)<br/>
 
-## [鸿蒙学习历程](https://github.com/shaoting0730/mobile-learn/tree/master/%E9%B8%BF%E8%92%99)    <br/>
+## [鸿蒙学习历程](https://github.com/shaoting0730/mobile-learn/tree/master/%E9%B8%BF%E8%92%99)<br/>
 
 ## [杂类学习](https://github.com/shaoting0730/mobile-learn/tree/master/%E6%9D%82%E7%B1%BB)<br/>
