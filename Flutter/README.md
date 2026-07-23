@@ -78,6 +78,7 @@ https://appycyfaqcq1951.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMiIsInJlc291cm
    [ flame库 ](    https://github.com/flame-engine/flame )    <br/>
    [ forge2d-物理引擎 ]( https://github.com/flame-engine/forge2d )    <br/>
    [ forge3d-物理引擎 ]( https://pub.dev/packages/flame_3d )    <br/>
+   [ flutter_scene- 3D物理引擎 ]( https://github.com/bdero/flutter_scene )    <br/>
    [ flame中文网 ](   https://www.flame-cn.com/ )    <br/>
    [ 游戏资源 ](    https://itch.io/game-assets )    <br/>
    [ flet:用Python写flutter ](    https://github.com/flet-dev/flet )    <br/>
